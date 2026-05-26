@@ -1,0 +1,30 @@
+# Core
+torch>=2.6.0
+torchvision
+einops
+pillow
+matplotlib
+pandas
+scikit-learn
+
+# Segmentation
+simple_lama_inpainting
+
+# Diffusion-related tools
+lpips
+pytorch-msssim
+torch-fidelity
+torchmetrics[image]
+
+# Training frameworks
+lightning
+monai
+
+# Data Augmentation
+albumentations
+
+# CLIP / Vision
+open_clip_torch
+
+# Optional: experiment tracking
+wandb

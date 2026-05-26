@@ -1,0 +1,111 @@
+{
+  "gen_root": "/root/autodl-tmp/output/generate/flow",
+  "real_root": "/root/autodl-tmp/data/HAM10000/input",
+  "real_split": "val",
+  "mode": "full",
+  "classes": {
+    "akiec": {
+      "gen_dir": "/root/autodl-tmp/output/generate/flow/akiec/images",
+      "real_img_dir": "/root/autodl-tmp/data/HAM10000/input/val/HAM10000_img_class/akiec",
+      "mode": "full",
+      "total_generated": 1500,
+      "limit": null,
+      "paired": 28,
+      "missing": 1472,
+      "metrics": {
+        "kid_mean": 0.04770076647400856,
+        "density_inception": 0.4642857313156128,
+        "coverage_inception": 0.6071428656578064
+      }
+    },
+    "bcc": {
+      "gen_dir": "/root/autodl-tmp/output/generate/flow/bcc/images",
+      "real_img_dir": "/root/autodl-tmp/data/HAM10000/input/val/HAM10000_img_class/bcc",
+      "mode": "full",
+      "total_generated": 1500,
+      "limit": null,
+      "paired": 49,
+      "missing": 1451,
+      "metrics": {
+        "kid_mean": 0.026726163923740387,
+        "density_inception": 0.4693877398967743,
+        "coverage_inception": 0.795918345451355
+      }
+    },
+    "bkl": {
+      "gen_dir": "/root/autodl-tmp/output/generate/flow/bkl/images",
+      "real_img_dir": "/root/autodl-tmp/data/HAM10000/input/val/HAM10000_img_class/bkl",
+      "mode": "full",
+      "total_generated": 1500,
+      "limit": null,
+      "paired": 93,
+      "missing": 1407,
+      "metrics": {
+        "kid_mean": 0.046943653374910355,
+        "density_inception": 0.4795699119567871,
+        "coverage_inception": 0.6881720423698425
+      }
+    },
+    "df": {
+      "gen_dir": "/root/autodl-tmp/output/generate/flow/df/images",
+      "real_img_dir": "/root/autodl-tmp/data/HAM10000/input/val/HAM10000_img_class/df",
+      "mode": "full",
+      "total_generated": 1500,
+      "limit": null,
+      "paired": 10,
+      "missing": 1490,
+      "metrics": {
+        "kid_mean": 0.04077136144042015,
+        "density_inception": 0.699999988079071,
+        "coverage_inception": 1.0
+      }
+    },
+    "mel": {
+      "gen_dir": "/root/autodl-tmp/output/generate/flow/mel/images",
+      "real_img_dir": "/root/autodl-tmp/data/HAM10000/input/val/HAM10000_img_class/mel",
+      "mode": "full",
+      "total_generated": 1500,
+      "limit": null,
+      "paired": 124,
+      "missing": 1376,
+      "metrics": {
+        "kid_mean": 0.0294098611921072,
+        "density_inception": 0.8112902641296387,
+        "coverage_inception": 0.8387096524238586
+      }
+    },
+    "nv": {
+      "gen_dir": "/root/autodl-tmp/output/generate/flow/nv/images",
+      "real_img_dir": "/root/autodl-tmp/data/HAM10000/input/val/HAM10000_img_class/nv",
+      "mode": "full",
+      "total_generated": 1500,
+      "limit": null,
+      "paired": 681,
+      "missing": 819,
+      "metrics": {
+        "kid_mean": 0.05100085213780403,
+        "density_inception": 0.45198240876197815,
+        "coverage_inception": 0.4669603407382965
+      }
+    },
+    "vasc": {
+      "gen_dir": "/root/autodl-tmp/output/generate/flow/vasc/images",
+      "real_img_dir": "/root/autodl-tmp/data/HAM10000/input/val/HAM10000_img_class/vasc",
+      "mode": "full",
+      "total_generated": 1500,
+      "limit": null,
+      "paired": 16,
+      "missing": 1484,
+      "metrics": {
+        "kid_mean": 0.043352290987968445,
+        "density_inception": 0.7250000238418579,
+        "coverage_inception": 0.8125
+      }
+    }
+  },
+  "summary": {
+    "kid_mean": 0.04084356501698494,
+    "density_inception": 0.5859308838844299,
+    "coverage_inception": 0.7442004084587097
+  }
+}

@@ -1,0 +1,15 @@
+__pycache__/
+.cache/
+
+/cmp
+/data
+/gifs
+/*runs
+/pkls
+/gen_img
+
+*.png
+*.pth
+*.pkl
+*.gif
+/test*

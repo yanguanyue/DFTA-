@@ -1,0 +1,111 @@
+{
+  "gen_root": "/root/autodl-tmp/output/generate/DFMGAN",
+  "real_root": "/root/autodl-tmp/data/HAM10000/input",
+  "real_split": "val",
+  "mode": "full",
+  "classes": {
+    "akiec": {
+      "gen_dir": "/root/autodl-tmp/output/generate/DFMGAN/akiec/image",
+      "real_img_dir": "/root/autodl-tmp/data/HAM10000/input/val/HAM10000_img_class/akiec",
+      "mode": "full",
+      "total_generated": 1500,
+      "limit": null,
+      "paired": 28,
+      "missing": 1472,
+      "metrics": {
+        "kid_mean": 0.14067071676254272,
+        "density_inception": 0.27142858505249023,
+        "coverage_inception": 0.3214285969734192
+      }
+    },
+    "bcc": {
+      "gen_dir": "/root/autodl-tmp/output/generate/DFMGAN/bcc/image",
+      "real_img_dir": "/root/autodl-tmp/data/HAM10000/input/val/HAM10000_img_class/bcc",
+      "mode": "full",
+      "total_generated": 1500,
+      "limit": null,
+      "paired": 49,
+      "missing": 1451,
+      "metrics": {
+        "kid_mean": 0.10716523975133896,
+        "density_inception": 0.08571428060531616,
+        "coverage_inception": 0.18367347121238708
+      }
+    },
+    "bkl": {
+      "gen_dir": "/root/autodl-tmp/output/generate/DFMGAN/bkl/image",
+      "real_img_dir": "/root/autodl-tmp/data/HAM10000/input/val/HAM10000_img_class/bkl",
+      "mode": "full",
+      "total_generated": 1500,
+      "limit": null,
+      "paired": 93,
+      "missing": 1407,
+      "metrics": {
+        "kid_mean": 0.08777399361133575,
+        "density_inception": 0.1526881754398346,
+        "coverage_inception": 0.22580644488334656
+      }
+    },
+    "df": {
+      "gen_dir": "/root/autodl-tmp/output/generate/DFMGAN/df/image",
+      "real_img_dir": "/root/autodl-tmp/data/HAM10000/input/val/HAM10000_img_class/df",
+      "mode": "full",
+      "total_generated": 1500,
+      "limit": null,
+      "paired": 10,
+      "missing": 1490,
+      "metrics": {
+        "kid_mean": 0.19934339821338654,
+        "density_inception": 0.4200000464916229,
+        "coverage_inception": 0.6000000238418579
+      }
+    },
+    "mel": {
+      "gen_dir": "/root/autodl-tmp/output/generate/DFMGAN/mel/image",
+      "real_img_dir": "/root/autodl-tmp/data/HAM10000/input/val/HAM10000_img_class/mel",
+      "mode": "full",
+      "total_generated": 1500,
+      "limit": null,
+      "paired": 124,
+      "missing": 1376,
+      "metrics": {
+        "kid_mean": 0.12245641648769379,
+        "density_inception": 0.2338709533214569,
+        "coverage_inception": 0.3467741906642914
+      }
+    },
+    "nv": {
+      "gen_dir": "/root/autodl-tmp/output/generate/DFMGAN/nv/image",
+      "real_img_dir": "/root/autodl-tmp/data/HAM10000/input/val/HAM10000_img_class/nv",
+      "mode": "full",
+      "total_generated": 1500,
+      "limit": null,
+      "paired": 681,
+      "missing": 819,
+      "metrics": {
+        "kid_mean": 0.1574021875858307,
+        "density_inception": 0.07136563211679459,
+        "coverage_inception": 0.06901615113019943
+      }
+    },
+    "vasc": {
+      "gen_dir": "/root/autodl-tmp/output/generate/DFMGAN/vasc/image",
+      "real_img_dir": "/root/autodl-tmp/data/HAM10000/input/val/HAM10000_img_class/vasc",
+      "mode": "full",
+      "total_generated": 1500,
+      "limit": null,
+      "paired": 16,
+      "missing": 1484,
+      "metrics": {
+        "kid_mean": 0.1205621138215065,
+        "density_inception": 0.16249999403953552,
+        "coverage_inception": 0.5
+      }
+    }
+  },
+  "summary": {
+    "kid_mean": 0.133624866604805,
+    "density_inception": 0.1996525377035141,
+    "coverage_inception": 0.3209569752216339
+  }
+}

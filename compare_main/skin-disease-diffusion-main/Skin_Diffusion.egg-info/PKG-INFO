@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: Skin-Diffusion
+Version: 1.0
+Summary: Diffusion model for skin images
+Author: 
+Description-Content-Type: text/markdown
+
+# Skin Disease Diffusion
+
+Diffusion model for skin images 

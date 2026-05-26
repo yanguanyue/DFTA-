@@ -1,0 +1,15 @@
+dataset,model,checkpoint,samples,mDice,mIoU
+ArSDM,segformer,/root/autodl-tmp/output/segmentation/outputs/segformer_ArSDM_512/segformer_best.pt,2750,0.707344,0.595732
+Controlnet,segformer,/root/autodl-tmp/output/segmentation/outputs/segformer_Controlnet_512/segformer_best.pt,2750,0.836983,0.759857
+DFMGAN,segformer,/root/autodl-tmp/output/segmentation/outputs/segformer_DFMGAN_512/segformer_best.pt,2750,0.817948,0.735396
+Siamese,segformer,/root/autodl-tmp/output/segmentation/outputs/segformer_Siamese_512/segformer_best.pt,2750,0.851262,0.775102
+T2I-Adapter,segformer,/root/autodl-tmp/output/segmentation/outputs/segformer_T2I-Adapter_512/segformer_best.pt,2750,0.865254,0.794070
+flow,segformer,/root/autodl-tmp/output/segmentation/outputs/segformer_flow_512/segformer_best.pt,2750,0.871849,0.795393
+real,segformer,/root/autodl-tmp/output/segmentation/outputs/segformer_real_512/segformer_best.pt,2750,0.837808,0.758758
+ArSDM,unet,/root/autodl-tmp/output/segmentation/outputs/unet_ArSDM_512/unet_best.pt,2750,0.440161,0.399015
+Controlnet,unet,/root/autodl-tmp/output/segmentation/outputs/unet_Controlnet_512/unet_best.pt,2750,0.801561,0.709694
+DFMGAN,unet,/root/autodl-tmp/output/segmentation/outputs/unet_DFMGAN_512/unet_best.pt,2750,0.791827,0.696701
+Siamese,unet,/root/autodl-tmp/output/segmentation/outputs/unet_Siamese_512/unet_best.pt,2750,0.759437,0.657437
+T2I-Adapter,unet,/root/autodl-tmp/output/segmentation/outputs/unet_T2I-Adapter_512/unet_best.pt,2750,0.798093,0.705819
+flow,unet,/root/autodl-tmp/output/segmentation/outputs/unet_flow_512/unet_best.pt,2750,0.808443,0.718782
+real,unet,/root/autodl-tmp/output/segmentation/outputs/unet_real_512/unet_best.pt,2750,0.799612,0.707055

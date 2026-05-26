@@ -1,0 +1,16 @@
+| dataset | model | checkpoint | samples | mDice | mIoU |
+| --- | --- | --- | --- | --- | --- |
+| ArSDM | segformer | /root/autodl-tmp/output/segmentation/outputs/segformer_ArSDM_512/segformer_best.pt | 200 | 0.750874 | 0.620861 |
+| Controlnet | segformer | /root/autodl-tmp/output/segmentation/outputs/segformer_Controlnet_512/segformer_best.pt | 200 | 0.931884 | 0.877499 |
+| DFMGAN | segformer | /root/autodl-tmp/output/segmentation/outputs/segformer_DFMGAN_512/segformer_best.pt | 200 | 0.905121 | 0.832955 |
+| Siamese | segformer | /root/autodl-tmp/output/segmentation/outputs/segformer_Siamese_512/segformer_best.pt | 200 | 0.926382 | 0.869571 |
+| T2I-Adapter | segformer | /root/autodl-tmp/output/segmentation/outputs/segformer_T2I-Adapter_512/segformer_best.pt | 200 | 0.932084 | 0.879444 |
+| flow | segformer | /root/autodl-tmp/output/segmentation/outputs/segformer_flow_512/segformer_best.pt | 200 | 0.940299 | 0.886135 |
+| real | segformer | /root/autodl-tmp/output/segmentation/outputs/segformer_real_512/segformer_best.pt | 200 | 0.908074 | 0.837169 |
+| ArSDM | unet | /root/autodl-tmp/output/segmentation/outputs/unet_ArSDM_512/unet_best.pt | 200 | 0.395593 | 0.338794 |
+| Controlnet | unet | /root/autodl-tmp/output/segmentation/outputs/unet_Controlnet_512/unet_best.pt | 200 | 0.892916 | 0.816865 |
+| DFMGAN | unet | /root/autodl-tmp/output/segmentation/outputs/unet_DFMGAN_512/unet_best.pt | 200 | 0.877110 | 0.793057 |
+| Siamese | unet | /root/autodl-tmp/output/segmentation/outputs/unet_Siamese_512/unet_best.pt | 200 | 0.857828 | 0.763515 |
+| T2I-Adapter | unet | /root/autodl-tmp/output/segmentation/outputs/unet_T2I-Adapter_512/unet_best.pt | 200 | 0.865618 | 0.775343 |
+| flow | unet | /root/autodl-tmp/output/segmentation/outputs/unet_flow_512/unet_best.pt | 200 | 0.898096 | 0.825171 |
+| real | unet | /root/autodl-tmp/output/segmentation/outputs/unet_real_512/unet_best.pt | 200 | 0.866049 | 0.774076 |

@@ -1,0 +1,109 @@
+exp:
+  exp_name: HAM10000_bcc_lora_512
+  train: True
+  resume: None
+  seed: 23
+  logdir: /root/autodl-tmp/model/ArSDM_exps
+  scale_lr: True
+
+model:
+  base_learning_rate: 1.0e-06
+  target: ddpm.ArSDM
+  params:
+    ckpt_path: /root/autodl-tmp/model/ArSDM_ada_refine_extract/ArSDM_ada_refine.ckpt
+    monitor: val/loss_simple_ema
+    linear_start: 0.0015
+    linear_end: 0.0205
+    log_every_t: 100
+    timesteps: 1000
+    loss_type: l1
+    first_stage_key: image
+    cond_stage_key: segmentation
+    image_size: 384
+    channels: 3
+    use_ada: True
+    use_refine: False
+    use_lora: False
+
+    unet_config:
+      target: guided_diffusion.unet.UNetModel
+      params:
+        image_size: 384
+        in_channels: 3
+        out_channels: 3
+        model_channels: 256
+        num_res_blocks: 2
+        attention_resolutions:
+          - 8
+          - 16
+          - 32
+
+        channel_mult:
+          - 1
+          - 1
+          - 2
+          - 2
+          - 4
+          - 4
+
+        dropout: 0
+        num_classes: 2
+        use_checkpoint: true
+        use_fp16: false
+        num_heads: 1
+        num_head_channels: 64
+        num_heads_upsample: -1
+        use_scale_shift_norm: ture
+        resblock_updown: true
+        use_new_attention_order: false
+
+data:
+  target: main.DataModuleFromConfig
+  params:
+    batch_size: 1
+    num_workers: 0
+    wrap: false
+    train:
+      target: datasets.polyp.PolypBase
+      params:
+        images_dir: /root/autodl-tmp/data/HAM10000/input/train/HAM10000_img_class/bcc
+        masks_dir: /root/autodl-tmp/data/HAM10000/input/train/HAM10000_seg_class/bcc
+        image_exts: [".jpg", ".png", ".jpeg"]
+        mask_suffix: _segmentation
+        size: 384
+
+    validation:
+      target: datasets.polyp.PolypBase
+      params:
+        images_dir: /root/autodl-tmp/data/HAM10000/input/train/HAM10000_img_class/bcc
+        masks_dir: /root/autodl-tmp/data/HAM10000/input/train/HAM10000_seg_class/bcc
+        image_exts: [".jpg", ".png", ".jpeg"]
+        mask_suffix: _segmentation
+        size: 384
+        max_samples: 5
+        seed: 23
+
+
+lightning:
+  callbacks:
+    image_logger:
+      target: main.ImageLogger
+      params:
+        batch_frequency: 500
+        max_images: 8
+        increase_log_steps: False
+        log_images_kwargs:
+          ddim_steps: 20
+
+  logger:
+    tensorboard:
+      target: pytorch_lightning.loggers.TensorBoardLogger
+
+  trainer:
+    benchmark: True
+    accumulate_grad_batches: 1
+    num_nodes: 1
+    max_steps: 3000
+    val_check_interval: 500
+    accelerator: gpu
+    devices: 1
