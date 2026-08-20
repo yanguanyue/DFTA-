@@ -21,21 +21,6 @@ def list_images(directory):
 
  
 
-def build_pairs_by_index(gen_paths, real_img_dir):
-    real_images = list_images(real_img_dir)
-    if not real_images:
-        raise ValueError(f"No real images found in {real_img_dir}")
-
-    min_count = min(len(gen_paths), len(real_images))
-    pairs = []
-    for idx in range(min_count):
-        gen_path = gen_paths[idx]
-        real_img = real_images[idx]
-        pairs.append((gen_path, real_img))
-
-    return pairs, len(gen_paths) - min_count
-
-
 def get_inception(device):
     model = models.inception_v3(weights=models.Inception_V3_Weights.IMAGENET1K_V1, transform_input=False)
     model.eval().to(device)
@@ -62,16 +47,19 @@ def get_preprocess():
 
 
 def compute_features(
-    pairs,
+    image_paths,
     device,
     batch_size=32,
     force_size=None,
+    model=None,
+    preprocess=None,
 ):
-    model = get_inception(device)
-    preprocess = get_preprocess()
+    if model is None:
+        model = get_inception(device)
+    if preprocess is None:
+        preprocess = get_preprocess()
 
-    features_gen = []
-    features_real = []
+    features = []
 
     pool_features = []
 
@@ -80,74 +68,59 @@ def compute_features(
 
     handle = model.avgpool.register_forward_hook(hook_fn)
 
-    for i in range(0, len(pairs), batch_size):
-        batch_pairs = pairs[i : i + batch_size]
-        gen_imgs = []
-        real_imgs = []
-        for gen_path, real_path in batch_pairs:
-            gen_img = Image.open(gen_path).convert("RGB")
-            real_img = Image.open(real_path).convert("RGB")
+    for i in range(0, len(image_paths), batch_size):
+        batch_paths = image_paths[i : i + batch_size]
+        images = []
+        for image_path in batch_paths:
+            image = Image.open(image_path).convert("RGB")
             if force_size:
-                real_img = real_img.resize((force_size, force_size), Image.BILINEAR)
-                gen_img = gen_img.resize((force_size, force_size), Image.LANCZOS)
-            elif gen_img.size != real_img.size:
-                gen_img = gen_img.resize(real_img.size, Image.LANCZOS)
+                image = image.resize((force_size, force_size), Image.LANCZOS)
+            images.append(preprocess(image))
 
-            gen_imgs.append(preprocess(gen_img))
-            real_imgs.append(preprocess(real_img))
-
-        gen_batch = torch.stack(gen_imgs).to(device)
-        real_batch = torch.stack(real_imgs).to(device)
+        batch = torch.stack(images).to(device)
 
         pool_features.clear()
         with torch.no_grad():
-            _ = model(gen_batch)
-        gen_pool = pool_features[0]
-
-        pool_features.clear()
-        with torch.no_grad():
-            _ = model(real_batch)
-        real_pool = pool_features[0]
-
-        features_gen.append(gen_pool.squeeze(-1).squeeze(-1).cpu())
-        features_real.append(real_pool.squeeze(-1).squeeze(-1).cpu())
+            _ = model(batch)
+        pool = pool_features[0]
+        features.append(pool.squeeze(-1).squeeze(-1).cpu())
 
     handle.remove()
 
-    if not features_gen:
-        return torch.empty((0, 0)), torch.empty((0, 0))
+    if not features:
+        return torch.empty((0, 0))
 
-    return torch.cat(features_gen), torch.cat(features_real)
+    return torch.cat(features)
 
 
-def calculate_kid(feats1, feats2, subset_size=1000, subsets=50, gamma=None):
-    n1 = feats1.shape[0]
-    n2 = feats2.shape[0]
-    subset_size = min(subset_size, n1, n2)
-    if subset_size < 2:
+def calculate_kid(feats_gen, feats_real, gamma=None, kernel_batch_size=1024):
+    """Full unbiased polynomial-kernel MMD^2 using unequal sample counts."""
+    n_gen = feats_gen.shape[0]
+    n_real = feats_real.shape[0]
+    if n_gen < 2 or n_real < 2:
         return float("nan")
+    gen = feats_gen.to(dtype=torch.float64, device="cpu")
+    real = feats_real.to(dtype=torch.float64, device="cpu")
+    if gamma is None:
+        gamma = 1.0 / gen.shape[1]
 
-    rng = torch.Generator().manual_seed(1234)
-    values = []
-    for _ in range(subsets):
-        inds1 = torch.randperm(n1, generator=rng)[:subset_size]
-        inds2 = torch.randperm(n2, generator=rng)[:subset_size]
-        x = feats1[inds1]
-        y = feats2[inds2]
-        if gamma is None:
-            gamma = 1.0 / x.shape[1]
-        k_xx = (gamma * (x @ x.T) + 1) ** 3
-        k_yy = (gamma * (y @ y.T) + 1) ** 3
-        k_xy = (gamma * (x @ y.T) + 1) ** 3
-        m = subset_size
-        value = (
-            (k_xx.sum() - torch.trace(k_xx)) / (m * (m - 1))
-            + (k_yy.sum() - torch.trace(k_yy)) / (m * (m - 1))
-            - 2 * k_xy.mean()
-        )
-        values.append(value)
-    values = torch.stack(values)
-    return float(values.mean().item())
+    def kernel_sum(left, right, exclude_diagonal=False):
+        total = torch.zeros((), dtype=torch.float64)
+        same = left.data_ptr() == right.data_ptr() and left.shape == right.shape
+        for start in range(0, left.shape[0], kernel_batch_size):
+            chunk = left[start : start + kernel_batch_size]
+            values = (gamma * (chunk @ right.T) + 1.0) ** 3
+            total += values.sum()
+            if exclude_diagonal and same:
+                rows = torch.arange(values.shape[0])
+                cols = torch.arange(start, start + values.shape[0])
+                total -= values[rows, cols].sum()
+        return total
+
+    k_gen = kernel_sum(gen, gen, exclude_diagonal=True) / (n_gen * (n_gen - 1))
+    k_real = kernel_sum(real, real, exclude_diagonal=True) / (n_real * (n_real - 1))
+    k_cross = kernel_sum(gen, real) / (n_gen * n_real)
+    return float((k_gen + k_real - 2.0 * k_cross).item())
 
 
 def _kth_nn_distance(features: torch.Tensor, k: int, batch_size: int) -> torch.Tensor:
@@ -291,6 +264,8 @@ def main() -> None:
     json_path, xlsx_path = build_output_paths(Path(args.output_dir), model_name)
 
     class_reports = {}
+    inception_model = get_inception(device)
+    inception_preprocess = get_preprocess()
     for class_dir in sorted([p for p in gen_root.iterdir() if p.is_dir()]):
         class_name = class_dir.name
         if class_filter and class_name not in class_filter:
@@ -324,17 +299,26 @@ def main() -> None:
             class_reports[class_name] = {"error": "missing_real_data"}
             continue
 
-        pairs, missing = build_pairs_by_index(gen_paths, real_img_dir)
-
-        if not pairs:
-            class_reports[class_name] = {"error": "no_pairs"}
+        real_paths = list_images(real_img_dir)
+        if not real_paths:
+            class_reports[class_name] = {"error": "no_real_images"}
             continue
 
-        feats_gen, feats_real = compute_features(
-            pairs,
+        feats_gen = compute_features(
+            gen_paths,
             device,
             batch_size=args.batch_size,
             force_size=args.force_size,
+            model=inception_model,
+            preprocess=inception_preprocess,
+        )
+        feats_real = compute_features(
+            real_paths,
+            device,
+            batch_size=args.batch_size,
+            force_size=args.force_size,
+            model=inception_model,
+            preprocess=inception_preprocess,
         )
 
         kid_mean = calculate_kid(feats_gen, feats_real)
@@ -355,9 +339,15 @@ def main() -> None:
             "real_img_dir": str(real_img_dir),
             "mode": "full",
             "total_generated": len(gen_paths),
+            "num_generated": len(gen_paths),
+            "num_real": len(real_paths),
+            "num_generated_used": int(feats_gen.shape[0]),
+            "num_real_used": int(feats_real.shape[0]),
             "limit": args.limit,
-            "paired": len(pairs),
-            "missing": int(missing),
+            "paired": False,
+            "kid_method": "full_unbiased_polynomial_mmd",
+            "kid_kernel_degree": 3,
+            "density_coverage_k": args.dc_k,
             "metrics": {
                 "kid_mean": kid_mean,
                 "density_inception": density,
@@ -378,7 +368,7 @@ def main() -> None:
                 continue
             values.append(value)
         if values:
-            summary[key] = float(torch.tensor(values).mean().item())
+            summary[key] = float(np.mean(values, dtype=np.float64))
         else:
             summary[key] = float("nan")
 

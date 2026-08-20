@@ -21,11 +21,18 @@ model/
 # Classifier output
 output/classifier/
 
+# Segmentation output
+output/segmentation/
+
 # Generated images
 output/generate/
 
 # Mixed datasets
 output/mixed_datasets/
+
+# Ablation metric outputs
+output/ablation/metric/classifier/
+output/ablation/metric/segmentation/
 
 # Specific large model file
 compare_main/LF-VAR-main/main/vae_ch160v4096z32.pth

@@ -11,14 +11,6 @@ def list_images(folder: Path):
     return [p for p in folder.iterdir() if p.is_file() and p.suffix.lower() in {".jpg", ".jpeg", ".png", ".bmp"}]
 
 
-def list_images_recursive(folder: Path):
-    return [
-        p
-        for p in folder.rglob("*")
-        if p.is_file() and p.suffix.lower() in {".jpg", ".jpeg", ".png", ".bmp"}
-    ]
-
-
 def ensure_empty_dir(path: Path):
     if path.exists():
         shutil.rmtree(path)
@@ -89,8 +81,13 @@ def main():
             symlink(img, cls_train_out / img.name)
 
         # Synthetic images
-        syn_dir = args.synthetic_root / cls
-        syn_images = list_images_recursive(syn_dir) if syn_dir.exists() else []
+        # Normalized generation outputs store classification inputs in
+        # <class>/images and (for segmentation-capable models) masks in
+        # <class>/masks.  Only images are valid classifier samples.
+        syn_dir = args.synthetic_root / cls / "images"
+        if not syn_dir.is_dir():
+            raise FileNotFoundError(f"Missing synthetic image directory: {syn_dir}")
+        syn_images = list_images(syn_dir)
 
         if cls in majority_classes:
             k = min(args.majority_cap, len(syn_images))

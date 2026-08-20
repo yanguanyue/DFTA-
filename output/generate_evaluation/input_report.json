@@ -1,0 +1,632 @@
+[
+  {
+    "model": "ArSDM",
+    "class": "akiec",
+    "source_images": 1476,
+    "source_masks": 1476,
+    "paired": 1476,
+    "normalized_images": 1476,
+    "normalized_masks": 1476,
+    "status": "ok"
+  },
+  {
+    "model": "ArSDM",
+    "class": "bcc",
+    "source_images": 1488,
+    "source_masks": 1488,
+    "paired": 1488,
+    "normalized_images": 1488,
+    "normalized_masks": 1488,
+    "status": "ok"
+  },
+  {
+    "model": "ArSDM",
+    "class": "bkl",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "ArSDM",
+    "class": "df",
+    "source_images": 1440,
+    "source_masks": 1440,
+    "paired": 1440,
+    "normalized_images": 1440,
+    "normalized_masks": 1440,
+    "status": "ok"
+  },
+  {
+    "model": "ArSDM",
+    "class": "mel",
+    "source_images": 1493,
+    "source_masks": 1493,
+    "paired": 1493,
+    "normalized_images": 1493,
+    "normalized_masks": 1493,
+    "status": "ok"
+  },
+  {
+    "model": "ArSDM",
+    "class": "nv",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "ArSDM",
+    "class": "vasc",
+    "source_images": 1435,
+    "source_masks": 1435,
+    "paired": 1435,
+    "normalized_images": 1435,
+    "normalized_masks": 1435,
+    "status": "ok"
+  },
+  {
+    "model": "Controlnet",
+    "class": "akiec",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "Controlnet",
+    "class": "bcc",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "Controlnet",
+    "class": "bkl",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "Controlnet",
+    "class": "df",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "Controlnet",
+    "class": "mel",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "Controlnet",
+    "class": "nv",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "Controlnet",
+    "class": "vasc",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "DFMGAN",
+    "class": "akiec",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "DFMGAN",
+    "class": "bcc",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "DFMGAN",
+    "class": "bkl",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "DFMGAN",
+    "class": "df",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "DFMGAN",
+    "class": "mel",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "DFMGAN",
+    "class": "nv",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "DFMGAN",
+    "class": "vasc",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "Derm-T2IM",
+    "class": "akiec",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "Derm-T2IM",
+    "class": "bcc",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "Derm-T2IM",
+    "class": "bkl",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "Derm-T2IM",
+    "class": "df",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "Derm-T2IM",
+    "class": "mel",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "Derm-T2IM",
+    "class": "nv",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "Derm-T2IM",
+    "class": "vasc",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "DreamBooth",
+    "class": "akiec",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "DreamBooth",
+    "class": "bcc",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "DreamBooth",
+    "class": "bkl",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "DreamBooth",
+    "class": "df",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "DreamBooth",
+    "class": "mel",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "DreamBooth",
+    "class": "nv",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "DreamBooth",
+    "class": "vasc",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "LesionGen",
+    "class": "akiec",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "LesionGen",
+    "class": "bcc",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "LesionGen",
+    "class": "bkl",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "LesionGen",
+    "class": "df",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "LesionGen",
+    "class": "mel",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "LesionGen",
+    "class": "nv",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "LesionGen",
+    "class": "vasc",
+    "source_images": 1500,
+    "source_masks": 0,
+    "paired": 0,
+    "normalized_images": 1500,
+    "normalized_masks": 0,
+    "status": "ok"
+  },
+  {
+    "model": "Siamese",
+    "class": "akiec",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "Siamese",
+    "class": "bcc",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "Siamese",
+    "class": "bkl",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "Siamese",
+    "class": "df",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "Siamese",
+    "class": "mel",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "Siamese",
+    "class": "nv",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "Siamese",
+    "class": "vasc",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "T2I-Adapter",
+    "class": "akiec",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "T2I-Adapter",
+    "class": "bcc",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "T2I-Adapter",
+    "class": "bkl",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "T2I-Adapter",
+    "class": "df",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "T2I-Adapter",
+    "class": "mel",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "T2I-Adapter",
+    "class": "nv",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "T2I-Adapter",
+    "class": "vasc",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "flow",
+    "class": "akiec",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "flow",
+    "class": "bcc",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "flow",
+    "class": "bkl",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "flow",
+    "class": "df",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "flow",
+    "class": "mel",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "flow",
+    "class": "nv",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  },
+  {
+    "model": "flow",
+    "class": "vasc",
+    "source_images": 1500,
+    "source_masks": 1500,
+    "paired": 1500,
+    "normalized_images": 1500,
+    "normalized_masks": 1500,
+    "status": "ok"
+  }
+]
