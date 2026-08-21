@@ -1,0 +1,153 @@
+{
+  "gen_root": "/root/autodl-tmp/output/generate_evaluation/dermofit/normalized/DreamBooth",
+  "real_root": "/root/autodl-tmp/output/generate_evaluation/dermofit/real_data",
+  "real_split": "val",
+  "mode": "full",
+  "classes": {
+    "akiec": {
+      "gen_dir": "/root/autodl-tmp/output/generate_evaluation/dermofit/normalized/DreamBooth/akiec/images",
+      "real_img_dir": "/root/autodl-tmp/output/generate_evaluation/dermofit/real_data/val/HAM10000_img_class/akiec",
+      "mode": "full",
+      "total_generated": 150,
+      "num_generated": 150,
+      "num_real": 12,
+      "num_generated_used": 150,
+      "num_real_used": 12,
+      "limit": null,
+      "paired": false,
+      "kid_method": "full_unbiased_polynomial_mmd",
+      "kid_kernel_degree": 3,
+      "density_coverage_k": 5,
+      "metrics": {
+        "kid_mean": 0.11972007876281054,
+        "density_inception": 0.1626666784286499,
+        "coverage_inception": 0.8333333730697632
+      }
+    },
+    "bcc": {
+      "gen_dir": "/root/autodl-tmp/output/generate_evaluation/dermofit/normalized/DreamBooth/bcc/images",
+      "real_img_dir": "/root/autodl-tmp/output/generate_evaluation/dermofit/real_data/val/HAM10000_img_class/bcc",
+      "mode": "full",
+      "total_generated": 50,
+      "num_generated": 50,
+      "num_real": 24,
+      "num_generated_used": 50,
+      "num_real_used": 24,
+      "limit": null,
+      "paired": false,
+      "kid_method": "full_unbiased_polynomial_mmd",
+      "kid_kernel_degree": 3,
+      "density_coverage_k": 5,
+      "metrics": {
+        "kid_mean": 0.11592105483459214,
+        "density_inception": 0.0560000017285347,
+        "coverage_inception": 0.375
+      }
+    },
+    "bkl": {
+      "gen_dir": "/root/autodl-tmp/output/generate_evaluation/dermofit/normalized/DreamBooth/bkl/images",
+      "real_img_dir": "/root/autodl-tmp/output/generate_evaluation/dermofit/real_data/val/HAM10000_img_class/bkl",
+      "mode": "full",
+      "total_generated": 50,
+      "num_generated": 50,
+      "num_real": 26,
+      "num_generated_used": 50,
+      "num_real_used": 26,
+      "limit": null,
+      "paired": false,
+      "kid_method": "full_unbiased_polynomial_mmd",
+      "kid_kernel_degree": 3,
+      "density_coverage_k": 5,
+      "metrics": {
+        "kid_mean": 0.10930879269926086,
+        "density_inception": 0.19999998807907104,
+        "coverage_inception": 0.46153849363327026
+      }
+    },
+    "df": {
+      "gen_dir": "/root/autodl-tmp/output/generate_evaluation/dermofit/normalized/DreamBooth/df/images",
+      "real_img_dir": "/root/autodl-tmp/output/generate_evaluation/dermofit/real_data/val/HAM10000_img_class/df",
+      "mode": "full",
+      "total_generated": 150,
+      "num_generated": 150,
+      "num_real": 6,
+      "num_generated_used": 150,
+      "num_real_used": 6,
+      "limit": null,
+      "paired": false,
+      "kid_method": "full_unbiased_polynomial_mmd",
+      "kid_kernel_degree": 3,
+      "density_coverage_k": 5,
+      "metrics": {
+        "kid_mean": 0.07694222688154184,
+        "density_inception": 1.0773334503173828,
+        "coverage_inception": 1.0
+      }
+    },
+    "mel": {
+      "gen_dir": "/root/autodl-tmp/output/generate_evaluation/dermofit/normalized/DreamBooth/mel/images",
+      "real_img_dir": "/root/autodl-tmp/output/generate_evaluation/dermofit/real_data/val/HAM10000_img_class/mel",
+      "mode": "full",
+      "total_generated": 150,
+      "num_generated": 150,
+      "num_real": 8,
+      "num_generated_used": 150,
+      "num_real_used": 8,
+      "limit": null,
+      "paired": false,
+      "kid_method": "full_unbiased_polynomial_mmd",
+      "kid_kernel_degree": 3,
+      "density_coverage_k": 5,
+      "metrics": {
+        "kid_mean": 0.04486510128081056,
+        "density_inception": 1.0640000104904175,
+        "coverage_inception": 1.0
+      }
+    },
+    "nv": {
+      "gen_dir": "/root/autodl-tmp/output/generate_evaluation/dermofit/normalized/DreamBooth/nv/images",
+      "real_img_dir": "/root/autodl-tmp/output/generate_evaluation/dermofit/real_data/val/HAM10000_img_class/nv",
+      "mode": "full",
+      "total_generated": 50,
+      "num_generated": 50,
+      "num_real": 33,
+      "num_generated_used": 50,
+      "num_real_used": 33,
+      "limit": null,
+      "paired": false,
+      "kid_method": "full_unbiased_polynomial_mmd",
+      "kid_kernel_degree": 3,
+      "density_coverage_k": 5,
+      "metrics": {
+        "kid_mean": 0.09171784950994244,
+        "density_inception": 0.10399999469518661,
+        "coverage_inception": 0.42424243688583374
+      }
+    },
+    "vasc": {
+      "gen_dir": "/root/autodl-tmp/output/generate_evaluation/dermofit/normalized/DreamBooth/vasc/images",
+      "real_img_dir": "/root/autodl-tmp/output/generate_evaluation/dermofit/real_data/val/HAM10000_img_class/vasc",
+      "mode": "full",
+      "total_generated": 150,
+      "num_generated": 150,
+      "num_real": 12,
+      "num_generated_used": 150,
+      "num_real_used": 12,
+      "limit": null,
+      "paired": false,
+      "kid_method": "full_unbiased_polynomial_mmd",
+      "kid_kernel_degree": 3,
+      "density_coverage_k": 5,
+      "metrics": {
+        "kid_mean": 0.11432414356640264,
+        "density_inception": 0.21199999749660492,
+        "coverage_inception": 1.0
+      }
+    }
+  },
+  "summary": {
+    "kid_mean": 0.09611417821933729,
+    "density_inception": 0.41085716017654966,
+    "coverage_inception": 0.7277306147984096
+  }
+}

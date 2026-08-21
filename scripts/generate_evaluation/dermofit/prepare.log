@@ -1,0 +1,443 @@
+[
+  {
+    "model": "ArSDM",
+    "cls": "akiec",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "ArSDM",
+    "cls": "bcc",
+    "images": 50,
+    "masks": 50,
+    "paired": 50
+  },
+  {
+    "model": "ArSDM",
+    "cls": "bkl",
+    "images": 50,
+    "masks": 50,
+    "paired": 50
+  },
+  {
+    "model": "ArSDM",
+    "cls": "df",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "ArSDM",
+    "cls": "mel",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "ArSDM",
+    "cls": "nv",
+    "images": 50,
+    "masks": 50,
+    "paired": 50
+  },
+  {
+    "model": "ArSDM",
+    "cls": "vasc",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "Controlnet",
+    "cls": "akiec",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "Controlnet",
+    "cls": "bcc",
+    "images": 50,
+    "masks": 50,
+    "paired": 50
+  },
+  {
+    "model": "Controlnet",
+    "cls": "bkl",
+    "images": 50,
+    "masks": 50,
+    "paired": 50
+  },
+  {
+    "model": "Controlnet",
+    "cls": "df",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "Controlnet",
+    "cls": "mel",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "Controlnet",
+    "cls": "nv",
+    "images": 50,
+    "masks": 50,
+    "paired": 50
+  },
+  {
+    "model": "Controlnet",
+    "cls": "vasc",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "DFMGAN",
+    "cls": "akiec",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "DFMGAN",
+    "cls": "bcc",
+    "images": 50,
+    "masks": 50,
+    "paired": 50
+  },
+  {
+    "model": "DFMGAN",
+    "cls": "bkl",
+    "images": 50,
+    "masks": 50,
+    "paired": 50
+  },
+  {
+    "model": "DFMGAN",
+    "cls": "df",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "DFMGAN",
+    "cls": "mel",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "DFMGAN",
+    "cls": "nv",
+    "images": 50,
+    "masks": 50,
+    "paired": 50
+  },
+  {
+    "model": "DFMGAN",
+    "cls": "vasc",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "Derm-T2IM",
+    "cls": "akiec",
+    "images": 150,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "Derm-T2IM",
+    "cls": "bcc",
+    "images": 50,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "Derm-T2IM",
+    "cls": "bkl",
+    "images": 50,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "Derm-T2IM",
+    "cls": "df",
+    "images": 150,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "Derm-T2IM",
+    "cls": "mel",
+    "images": 150,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "Derm-T2IM",
+    "cls": "nv",
+    "images": 50,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "Derm-T2IM",
+    "cls": "vasc",
+    "images": 150,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "DreamBooth",
+    "cls": "akiec",
+    "images": 150,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "DreamBooth",
+    "cls": "bcc",
+    "images": 50,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "DreamBooth",
+    "cls": "bkl",
+    "images": 50,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "DreamBooth",
+    "cls": "df",
+    "images": 150,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "DreamBooth",
+    "cls": "mel",
+    "images": 150,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "DreamBooth",
+    "cls": "nv",
+    "images": 50,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "DreamBooth",
+    "cls": "vasc",
+    "images": 150,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "LesionGen",
+    "cls": "akiec",
+    "images": 150,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "LesionGen",
+    "cls": "bcc",
+    "images": 50,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "LesionGen",
+    "cls": "bkl",
+    "images": 50,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "LesionGen",
+    "cls": "df",
+    "images": 150,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "LesionGen",
+    "cls": "mel",
+    "images": 150,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "LesionGen",
+    "cls": "nv",
+    "images": 50,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "LesionGen",
+    "cls": "vasc",
+    "images": 150,
+    "masks": 0,
+    "paired": 0
+  },
+  {
+    "model": "Siamese",
+    "cls": "akiec",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "Siamese",
+    "cls": "bcc",
+    "images": 50,
+    "masks": 50,
+    "paired": 50
+  },
+  {
+    "model": "Siamese",
+    "cls": "bkl",
+    "images": 50,
+    "masks": 50,
+    "paired": 50
+  },
+  {
+    "model": "Siamese",
+    "cls": "df",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "Siamese",
+    "cls": "mel",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "Siamese",
+    "cls": "nv",
+    "images": 50,
+    "masks": 50,
+    "paired": 50
+  },
+  {
+    "model": "Siamese",
+    "cls": "vasc",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "T2I-Adapter",
+    "cls": "akiec",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "T2I-Adapter",
+    "cls": "bcc",
+    "images": 50,
+    "masks": 50,
+    "paired": 50
+  },
+  {
+    "model": "T2I-Adapter",
+    "cls": "bkl",
+    "images": 50,
+    "masks": 50,
+    "paired": 50
+  },
+  {
+    "model": "T2I-Adapter",
+    "cls": "df",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "T2I-Adapter",
+    "cls": "mel",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "T2I-Adapter",
+    "cls": "nv",
+    "images": 50,
+    "masks": 50,
+    "paired": 50
+  },
+  {
+    "model": "T2I-Adapter",
+    "cls": "vasc",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "flow",
+    "cls": "akiec",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "flow",
+    "cls": "bcc",
+    "images": 50,
+    "masks": 50,
+    "paired": 50
+  },
+  {
+    "model": "flow",
+    "cls": "bkl",
+    "images": 50,
+    "masks": 50,
+    "paired": 50
+  },
+  {
+    "model": "flow",
+    "cls": "df",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "flow",
+    "cls": "mel",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  },
+  {
+    "model": "flow",
+    "cls": "nv",
+    "images": 50,
+    "masks": 50,
+    "paired": 50
+  },
+  {
+    "model": "flow",
+    "cls": "vasc",
+    "images": 150,
+    "masks": 150,
+    "paired": 150
+  }
+]

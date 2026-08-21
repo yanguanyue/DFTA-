@@ -1,0 +1,17 @@
+{
+  "eval_root":"/root/autodl-tmp/output/generate_evaluation/dermofit",
+  "compat_root":"/root/autodl-tmp/experiments/dermofit_compare_20260805/compat_data",
+  "classes":["akiec","bcc","bkl","df","mel","nv","vasc"],
+  "expected_counts":{"akiec":150,"bcc":50,"bkl":50,"df":150,"mel":150,"nv":50,"vasc":150},
+  "models":{
+    "ArSDM":"/root/autodl-tmp/experiments/dermofit_compare_20260805/generated_images/ArSDM",
+    "Controlnet":"/root/autodl-tmp/experiments/dermofit_compare_20260805/generated_images/ControlNet",
+    "DFMGAN":"/root/autodl-tmp/experiments/dermofit_compare_20260805/generated_images/DFMGAN",
+    "Derm-T2IM":"/root/autodl-tmp/experiments/dermofit_compare_20260805/generated_images/Derm-T2IM",
+    "DreamBooth":"/root/autodl-tmp/experiments/dermofit_compare_20260805/generated_images/DreamBooth",
+    "LesionGen":"/root/autodl-tmp/experiments/dermofit_compare_20260805/generated_images/LesionGen",
+    "Siamese":"/root/autodl-tmp/experiments/dermofit_compare_20260805/generated_images/Siamese",
+    "T2I-Adapter":"/root/autodl-tmp/experiments/dermofit_compare_20260805/generated_images/T2I-Adapter",
+    "flow":"/root/autodl-tmp/experiments/dermofit_compare_20260805/generated_images/FlowMain"
+  }
+}

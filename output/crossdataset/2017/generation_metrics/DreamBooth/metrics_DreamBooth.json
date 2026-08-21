@@ -1,0 +1,73 @@
+{
+  "gen_root": "/root/autodl-tmp/output/generate_evaluation/2017/normalized/DreamBooth",
+  "real_root": "/root/autodl-tmp/output/generate_evaluation/2017/real_data",
+  "real_split": "val",
+  "mode": "full",
+  "classes": {
+    "bkl": {
+      "gen_dir": "/root/autodl-tmp/output/generate_evaluation/2017/normalized/DreamBooth/bkl/images",
+      "real_img_dir": "/root/autodl-tmp/output/generate_evaluation/2017/real_data/val/HAM10000_img_class/bkl",
+      "mode": "full",
+      "total_generated": 1500,
+      "num_generated": 1500,
+      "num_real": 42,
+      "num_generated_used": 1500,
+      "num_real_used": 42,
+      "limit": null,
+      "paired": false,
+      "kid_method": "full_unbiased_polynomial_mmd",
+      "kid_kernel_degree": 3,
+      "density_coverage_k": 5,
+      "metrics": {
+        "kid_mean": 0.05198140327540468,
+        "density_inception": 0.5983999967575073,
+        "coverage_inception": 0.9761905074119568
+      }
+    },
+    "mel": {
+      "gen_dir": "/root/autodl-tmp/output/generate_evaluation/2017/normalized/DreamBooth/mel/images",
+      "real_img_dir": "/root/autodl-tmp/output/generate_evaluation/2017/real_data/val/HAM10000_img_class/mel",
+      "mode": "full",
+      "total_generated": 1500,
+      "num_generated": 1500,
+      "num_real": 30,
+      "num_generated_used": 1500,
+      "num_real_used": 30,
+      "limit": null,
+      "paired": false,
+      "kid_method": "full_unbiased_polynomial_mmd",
+      "kid_kernel_degree": 3,
+      "density_coverage_k": 5,
+      "metrics": {
+        "kid_mean": 0.09670929615937851,
+        "density_inception": 0.46160000562667847,
+        "coverage_inception": 0.9666666984558105
+      }
+    },
+    "nv": {
+      "gen_dir": "/root/autodl-tmp/output/generate_evaluation/2017/normalized/DreamBooth/nv/images",
+      "real_img_dir": "/root/autodl-tmp/output/generate_evaluation/2017/real_data/val/HAM10000_img_class/nv",
+      "mode": "full",
+      "total_generated": 1500,
+      "num_generated": 1500,
+      "num_real": 78,
+      "num_generated_used": 1500,
+      "num_real_used": 78,
+      "limit": null,
+      "paired": false,
+      "kid_method": "full_unbiased_polynomial_mmd",
+      "kid_kernel_degree": 3,
+      "density_coverage_k": 5,
+      "metrics": {
+        "kid_mean": 0.061816975049847844,
+        "density_inception": 0.6402666568756104,
+        "coverage_inception": 0.9358974695205688
+      }
+    }
+  },
+  "summary": {
+    "kid_mean": 0.07016922482821035,
+    "density_inception": 0.5667555530865988,
+    "coverage_inception": 0.9595848917961121
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "classes": [
+    "bkl",
+    "mel",
+    "nv"
+  ],
+  "n": 150,
+  "accuracy": 0.78,
+  "balanced_accuracy": 0.7134310134310134,
+  "macro_precision": 0.7664789168578037,
+  "macro_recall": 0.7134310134310134,
+  "macro_f1": 0.7266633399866933,
+  "macro_auc_ovr": 0.8896933930267265,
+  "confusion_matrix": [
+    [
+      34,
+      3,
+      5
+    ],
+    [
+      3,
+      13,
+      14
+    ],
+    [
+      6,
+      2,
+      70
+    ]
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "eval_root":"/root/autodl-tmp/output/generate_evaluation/2017",
+  "compat_root":"/root/autodl-tmp/experiments/isic2017_compare_20260729/compat_data",
+  "classes":["bkl","mel","nv"], "expected_counts":{"bkl":1500,"mel":1500,"nv":500},
+  "models":{
+    "ArSDM":"/root/autodl-tmp/experiments/isic2017_compare_20260729/generated_images2/ArSDM",
+    "Controlnet":"/root/autodl-tmp/experiments/isic2017_compare_20260729/generated_images/ControlNet",
+    "DFMGAN":"/root/autodl-tmp/experiments/isic2017_compare_20260729/generated_images/DFMGAN",
+    "Derm-T2IM":"/root/autodl-tmp/experiments/isic2017_compare_20260729/generated_images/Derm-T2IM",
+    "DreamBooth":"/root/autodl-tmp/experiments/isic2017_compare_20260729/generated_images/DreamBooth",
+    "LesionGen":"/root/autodl-tmp/experiments/isic2017_compare_20260729/generated_images/LesionGen",
+    "Siamese":"/root/autodl-tmp/experiments/isic2017_compare_20260729/generated_images/Siamese",
+    "T2I-Adapter":"/root/autodl-tmp/experiments/isic2017_compare_20260729/generated_images/T2I-Adapter",
+    "flow":"/root/autodl-tmp/experiments/isic2017_compare_20260729/generated_images/flow"
+  }
+}
