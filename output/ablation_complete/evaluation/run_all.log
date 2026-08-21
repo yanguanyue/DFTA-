@@ -1,0 +1,13684 @@
+[
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  }
+]
+Class counts: {'akiec': 266, 'bcc': 420, 'bkl': 872, 'df': 92, 'mel': 889, 'nv': 5366, 'vasc': 107}
+Median: 420
+Majority classes: ['bkl', 'mel', 'nv']
+Minority classes: ['akiec', 'bcc', 'df', 'vasc']
+Mixed dataset created at /root/autodl-tmp/output/ablation_complete/evaluation/classifier/mixed/A
+Class counts: {'akiec': 266, 'bcc': 420, 'bkl': 872, 'df': 92, 'mel': 889, 'nv': 5366, 'vasc': 107}
+Median: 420
+Majority classes: ['bkl', 'mel', 'nv']
+Minority classes: ['akiec', 'bcc', 'df', 'vasc']
+Mixed dataset created at /root/autodl-tmp/output/ablation_complete/evaluation/classifier/mixed/B
+Class counts: {'akiec': 266, 'bcc': 420, 'bkl': 872, 'df': 92, 'mel': 889, 'nv': 5366, 'vasc': 107}
+Median: 420
+Majority classes: ['bkl', 'mel', 'nv']
+Minority classes: ['akiec', 'bcc', 'df', 'vasc']
+Mixed dataset created at /root/autodl-tmp/output/ablation_complete/evaluation/classifier/mixed/C
+Class counts: {'akiec': 266, 'bcc': 420, 'bkl': 872, 'df': 92, 'mel': 889, 'nv': 5366, 'vasc': 107}
+Median: 420
+Majority classes: ['bkl', 'mel', 'nv']
+Minority classes: ['akiec', 'bcc', 'df', 'vasc']
+Mixed dataset created at /root/autodl-tmp/output/ablation_complete/evaluation/classifier/mixed/D
+Class counts: {'akiec': 266, 'bcc': 420, 'bkl': 872, 'df': 92, 'mel': 889, 'nv': 5366, 'vasc': 107}
+Median: 420
+Majority classes: ['bkl', 'mel', 'nv']
+Minority classes: ['akiec', 'bcc', 'df', 'vasc']
+Mixed dataset created at /root/autodl-tmp/output/ablation_complete/evaluation/classifier/mixed/E
+Class counts: {'akiec': 266, 'bcc': 420, 'bkl': 872, 'df': 92, 'mel': 889, 'nv': 5366, 'vasc': 107}
+Median: 420
+Majority classes: ['bkl', 'mel', 'nv']
+Minority classes: ['akiec', 'bcc', 'df', 'vasc']
+Mixed dataset created at /root/autodl-tmp/output/ablation_complete/evaluation/classifier/mixed/F
+Class counts: {'akiec': 266, 'bcc': 420, 'bkl': 872, 'df': 92, 'mel': 889, 'nv': 5366, 'vasc': 107}
+Median: 420
+Majority classes: ['bkl', 'mel', 'nv']
+Minority classes: ['akiec', 'bcc', 'df', 'vasc']
+Mixed dataset created at /root/autodl-tmp/output/ablation_complete/evaluation/classifier/mixed/G
+Class counts: {'akiec': 266, 'bcc': 420, 'bkl': 872, 'df': 92, 'mel': 889, 'nv': 5366, 'vasc': 107}
+Median: 420
+Majority classes: ['bkl', 'mel', 'nv']
+Minority classes: ['akiec', 'bcc', 'df', 'vasc']
+Mixed dataset created at /root/autodl-tmp/output/ablation_complete/evaluation/classifier/mixed/H
+Class counts: {'akiec': 266, 'bcc': 420, 'bkl': 872, 'df': 92, 'mel': 889, 'nv': 5366, 'vasc': 107}
+Median: 420
+Majority classes: ['bkl', 'mel', 'nv']
+Minority classes: ['akiec', 'bcc', 'df', 'vasc']
+Mixed dataset created at /root/autodl-tmp/output/ablation_complete/evaluation/classifier/mixed/I
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8741258741258742,
+  "balanced_accuracy": 0.7528286191148743,
+  "macro_precision": 0.7850618336196317,
+  "macro_recall": 0.7528286191148743,
+  "macro_f1": 0.7647454879544661,
+  "macro_auc_ovr": 0.9745663346574723,
+  "confusion_matrix": [
+    [
+      19,
+      5,
+      3,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      3,
+      38,
+      3,
+      0,
+      1,
+      4,
+      0
+    ],
+    [
+      4,
+      1,
+      70,
+      0,
+      5,
+      13,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      0,
+      1,
+      1
+    ],
+    [
+      4,
+      1,
+      3,
+      1,
+      73,
+      39,
+      3
+    ],
+    [
+      1,
+      5,
+      6,
+      0,
+      14,
+      655,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8681318681318682,
+  "balanced_accuracy": 0.7487177297480635,
+  "macro_precision": 0.798888737362752,
+  "macro_recall": 0.7487177297480635,
+  "macro_f1": 0.7671384197664696,
+  "macro_auc_ovr": 0.9753270859817693,
+  "confusion_matrix": [
+    [
+      21,
+      5,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      4,
+      36,
+      2,
+      0,
+      0,
+      7,
+      0
+    ],
+    [
+      5,
+      2,
+      61,
+      0,
+      10,
+      14,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      1,
+      1,
+      0
+    ],
+    [
+      3,
+      2,
+      3,
+      0,
+      78,
+      36,
+      2
+    ],
+    [
+      1,
+      4,
+      8,
+      0,
+      15,
+      653,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8601398601398601,
+  "balanced_accuracy": 0.7366248741726537,
+  "macro_precision": 0.7298833987035392,
+  "macro_recall": 0.7366248741726537,
+  "macro_f1": 0.7282036037629459,
+  "macro_auc_ovr": 0.9752988367442448,
+  "confusion_matrix": [
+    [
+      18,
+      7,
+      2,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      3,
+      40,
+      2,
+      0,
+      1,
+      2,
+      1
+    ],
+    [
+      4,
+      2,
+      66,
+      0,
+      6,
+      15,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      1,
+      1,
+      0
+    ],
+    [
+      2,
+      2,
+      6,
+      4,
+      64,
+      43,
+      3
+    ],
+    [
+      2,
+      5,
+      8,
+      0,
+      12,
+      653,
+      1
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8641358641358642,
+  "balanced_accuracy": 0.689231671880673,
+  "macro_precision": 0.7612858294723445,
+  "macro_recall": 0.689231671880673,
+  "macro_f1": 0.7138261478830098,
+  "macro_auc_ovr": 0.971937319198144,
+  "confusion_matrix": [
+    [
+      17,
+      5,
+      3,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      5,
+      38,
+      2,
+      0,
+      0,
+      4,
+      0
+    ],
+    [
+      2,
+      1,
+      68,
+      0,
+      6,
+      15,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      4,
+      2,
+      3,
+      0
+    ],
+    [
+      6,
+      0,
+      4,
+      1,
+      75,
+      36,
+      2
+    ],
+    [
+      3,
+      2,
+      11,
+      0,
+      14,
+      651,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      1,
+      1,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8871128871128872,
+  "balanced_accuracy": 0.7754340741351455,
+  "macro_precision": 0.8209018572104699,
+  "macro_recall": 0.7754340741351455,
+  "macro_f1": 0.7893619548519767,
+  "macro_auc_ovr": 0.9767723420285158,
+  "confusion_matrix": [
+    [
+      22,
+      3,
+      2,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      5,
+      40,
+      1,
+      0,
+      0,
+      2,
+      1
+    ],
+    [
+      4,
+      0,
+      67,
+      0,
+      6,
+      15,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      0,
+      2,
+      0
+    ],
+    [
+      5,
+      0,
+      7,
+      0,
+      77,
+      33,
+      2
+    ],
+    [
+      0,
+      1,
+      9,
+      0,
+      9,
+      662,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8911088911088911,
+  "balanced_accuracy": 0.7636885341440419,
+  "macro_precision": 0.7936976811360791,
+  "macro_recall": 0.7636885341440419,
+  "macro_f1": 0.773339452632885,
+  "macro_auc_ovr": 0.9797498279260768,
+  "confusion_matrix": [
+    [
+      17,
+      7,
+      2,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      3,
+      39,
+      2,
+      1,
+      2,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      70,
+      0,
+      6,
+      15,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      1,
+      1,
+      0
+    ],
+    [
+      5,
+      0,
+      6,
+      0,
+      79,
+      31,
+      3
+    ],
+    [
+      1,
+      4,
+      2,
+      0,
+      6,
+      666,
+      2
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.9000999000999002,
+  "balanced_accuracy": 0.7878621010311593,
+  "macro_precision": 0.8211121397659434,
+  "macro_recall": 0.7878621010311593,
+  "macro_f1": 0.8028459856006477,
+  "macro_auc_ovr": 0.9833465962796516,
+  "confusion_matrix": [
+    [
+      22,
+      1,
+      3,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      2,
+      38,
+      4,
+      1,
+      1,
+      3,
+      0
+    ],
+    [
+      1,
+      1,
+      72,
+      0,
+      5,
+      14,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      1,
+      1,
+      0
+    ],
+    [
+      4,
+      1,
+      2,
+      1,
+      86,
+      28,
+      2
+    ],
+    [
+      1,
+      2,
+      5,
+      0,
+      10,
+      663,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8841158841158842,
+  "balanced_accuracy": 0.7561927458817223,
+  "macro_precision": 0.8263726507699831,
+  "macro_recall": 0.7561927458817223,
+  "macro_f1": 0.7826693514724864,
+  "macro_auc_ovr": 0.9789908387694036,
+  "confusion_matrix": [
+    [
+      22,
+      3,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      2,
+      41,
+      2,
+      0,
+      2,
+      1,
+      1
+    ],
+    [
+      2,
+      1,
+      67,
+      0,
+      6,
+      17,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      5,
+      2,
+      2,
+      0
+    ],
+    [
+      3,
+      0,
+      5,
+      1,
+      75,
+      39,
+      1
+    ],
+    [
+      0,
+      5,
+      8,
+      0,
+      7,
+      661,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8931068931068931,
+  "balanced_accuracy": 0.7603996448454531,
+  "macro_precision": 0.8194051589751802,
+  "macro_recall": 0.7603996448454531,
+  "macro_f1": 0.7871476949304859,
+  "macro_auc_ovr": 0.9811738579471625,
+  "confusion_matrix": [
+    [
+      19,
+      5,
+      1,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      4,
+      40,
+      2,
+      1,
+      0,
+      2,
+      0
+    ],
+    [
+      0,
+      1,
+      70,
+      0,
+      5,
+      17,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      6,
+      2,
+      1,
+      0
+    ],
+    [
+      4,
+      0,
+      5,
+      1,
+      86,
+      27,
+      1
+    ],
+    [
+      0,
+      3,
+      5,
+      0,
+      13,
+      660,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8981018981018981,
+  "balanced_accuracy": 0.7926736427736607,
+  "macro_precision": 0.8438038661673259,
+  "macro_recall": 0.7926736427736607,
+  "macro_f1": 0.8136276126307099,
+  "macro_auc_ovr": 0.9807970973399535,
+  "confusion_matrix": [
+    [
+      22,
+      1,
+      2,
+      0,
+      1,
+      2,
+      0
+    ],
+    [
+      3,
+      41,
+      3,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      68,
+      0,
+      9,
+      15,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      6,
+      1,
+      3,
+      0
+    ],
+    [
+      3,
+      1,
+      6,
+      0,
+      85,
+      28,
+      1
+    ],
+    [
+      1,
+      3,
+      5,
+      0,
+      9,
+      662,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      15
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8561438561438561,
+  "balanced_accuracy": 0.629231869365217,
+  "macro_precision": 0.7356252023127728,
+  "macro_recall": 0.629231869365217,
+  "macro_f1": 0.6572780709790662,
+  "macro_auc_ovr": 0.9687919931800454,
+  "confusion_matrix": [
+    [
+      16,
+      5,
+      2,
+      0,
+      2,
+      3,
+      0
+    ],
+    [
+      1,
+      40,
+      2,
+      0,
+      0,
+      6,
+      0
+    ],
+    [
+      4,
+      1,
+      64,
+      0,
+      5,
+      19,
+      0
+    ],
+    [
+      1,
+      2,
+      0,
+      1,
+      1,
+      4,
+      1
+    ],
+    [
+      6,
+      4,
+      9,
+      1,
+      63,
+      41,
+      0
+    ],
+    [
+      0,
+      2,
+      8,
+      0,
+      10,
+      661,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8501498501498501,
+  "balanced_accuracy": 0.6470841873158854,
+  "macro_precision": 0.722694867054355,
+  "macro_recall": 0.6470841873158854,
+  "macro_f1": 0.6607797182958617,
+  "macro_auc_ovr": 0.9697270791685398,
+  "confusion_matrix": [
+    [
+      17,
+      5,
+      1,
+      0,
+      2,
+      3,
+      0
+    ],
+    [
+      1,
+      43,
+      3,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      3,
+      1,
+      67,
+      0,
+      5,
+      17,
+      0
+    ],
+    [
+      1,
+      2,
+      2,
+      1,
+      0,
+      2,
+      2
+    ],
+    [
+      5,
+      1,
+      9,
+      1,
+      56,
+      51,
+      1
+    ],
+    [
+      0,
+      3,
+      9,
+      0,
+      15,
+      654,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8531468531468531,
+  "balanced_accuracy": 0.6233710546075147,
+  "macro_precision": 0.6449649023587997,
+  "macro_recall": 0.6233710546075147,
+  "macro_f1": 0.6248193401172599,
+  "macro_auc_ovr": 0.9608179300962371,
+  "confusion_matrix": [
+    [
+      20,
+      5,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      3,
+      41,
+      3,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      3,
+      3,
+      64,
+      0,
+      7,
+      16,
+      0
+    ],
+    [
+      1,
+      3,
+      0,
+      0,
+      1,
+      4,
+      1
+    ],
+    [
+      8,
+      4,
+      8,
+      0,
+      58,
+      46,
+      0
+    ],
+    [
+      0,
+      4,
+      7,
+      0,
+      9,
+      660,
+      1
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      3,
+      11
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8521478521478522,
+  "balanced_accuracy": 0.6312045051886647,
+  "macro_precision": 0.7308345049347559,
+  "macro_recall": 0.6312045051886647,
+  "macro_f1": 0.6557674268470916,
+  "macro_auc_ovr": 0.9681503094251507,
+  "confusion_matrix": [
+    [
+      16,
+      6,
+      1,
+      0,
+      1,
+      4,
+      0
+    ],
+    [
+      0,
+      43,
+      2,
+      0,
+      0,
+      4,
+      0
+    ],
+    [
+      2,
+      2,
+      60,
+      0,
+      8,
+      20,
+      1
+    ],
+    [
+      1,
+      2,
+      1,
+      1,
+      1,
+      3,
+      1
+    ],
+    [
+      4,
+      2,
+      7,
+      1,
+      63,
+      46,
+      1
+    ],
+    [
+      0,
+      3,
+      10,
+      0,
+      10,
+      658,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8551448551448552,
+  "balanced_accuracy": 0.6684022502604241,
+  "macro_precision": 0.7573015296344101,
+  "macro_recall": 0.6684022502604241,
+  "macro_f1": 0.6899187151731374,
+  "macro_auc_ovr": 0.9677841849606893,
+  "confusion_matrix": [
+    [
+      20,
+      5,
+      0,
+      0,
+      1,
+      2,
+      0
+    ],
+    [
+      1,
+      41,
+      4,
+      0,
+      0,
+      3,
+      0
+    ],
+    [
+      5,
+      0,
+      59,
+      0,
+      8,
+      21,
+      0
+    ],
+    [
+      0,
+      3,
+      1,
+      2,
+      0,
+      3,
+      1
+    ],
+    [
+      4,
+      1,
+      5,
+      1,
+      64,
+      47,
+      2
+    ],
+    [
+      0,
+      5,
+      7,
+      0,
+      12,
+      657,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8791208791208791,
+  "balanced_accuracy": 0.7242558820357149,
+  "macro_precision": 0.8151103021063513,
+  "macro_recall": 0.7242558820357149,
+  "macro_f1": 0.7628677648102269,
+  "macro_auc_ovr": 0.9748738181546477,
+  "confusion_matrix": [
+    [
+      17,
+      5,
+      2,
+      0,
+      2,
+      2,
+      0
+    ],
+    [
+      1,
+      41,
+      4,
+      0,
+      0,
+      3,
+      0
+    ],
+    [
+      4,
+      0,
+      67,
+      0,
+      6,
+      16,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      6,
+      0,
+      1,
+      0
+    ],
+    [
+      4,
+      0,
+      3,
+      1,
+      81,
+      34,
+      1
+    ],
+    [
+      1,
+      2,
+      5,
+      0,
+      16,
+      657,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      4,
+      11
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8851148851148851,
+  "balanced_accuracy": 0.7648633427670182,
+  "macro_precision": 0.8341297587296413,
+  "macro_recall": 0.7648633427670182,
+  "macro_f1": 0.7916081725115564,
+  "macro_auc_ovr": 0.9738281187992347,
+  "confusion_matrix": [
+    [
+      22,
+      3,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      3,
+      38,
+      3,
+      0,
+      0,
+      5,
+      0
+    ],
+    [
+      5,
+      0,
+      70,
+      0,
+      5,
+      13,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      7,
+      0,
+      1,
+      0
+    ],
+    [
+      5,
+      1,
+      4,
+      1,
+      77,
+      36,
+      0
+    ],
+    [
+      1,
+      3,
+      7,
+      0,
+      10,
+      660,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      2,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8811188811188811,
+  "balanced_accuracy": 0.7573490040771583,
+  "macro_precision": 0.8031910124492102,
+  "macro_recall": 0.7573490040771583,
+  "macro_f1": 0.7787408189890982,
+  "macro_auc_ovr": 0.9750045048306129,
+  "confusion_matrix": [
+    [
+      17,
+      5,
+      3,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      4,
+      38,
+      5,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      3,
+      2,
+      66,
+      0,
+      6,
+      16,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      0,
+      2,
+      0
+    ],
+    [
+      2,
+      0,
+      3,
+      1,
+      83,
+      35,
+      0
+    ],
+    [
+      1,
+      2,
+      4,
+      0,
+      17,
+      657,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8761238761238761,
+  "balanced_accuracy": 0.7411425195547677,
+  "macro_precision": 0.8315744659603224,
+  "macro_recall": 0.7411425195547677,
+  "macro_f1": 0.776950406207346,
+  "macro_auc_ovr": 0.973614634406224,
+  "confusion_matrix": [
+    [
+      19,
+      4,
+      1,
+      0,
+      3,
+      1,
+      0
+    ],
+    [
+      3,
+      37,
+      5,
+      0,
+      2,
+      2,
+      0
+    ],
+    [
+      4,
+      0,
+      65,
+      0,
+      10,
+      14,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      6,
+      0,
+      2,
+      0
+    ],
+    [
+      4,
+      0,
+      5,
+      0,
+      85,
+      30,
+      0
+    ],
+    [
+      2,
+      3,
+      6,
+      0,
+      18,
+      652,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8751248751248751,
+  "balanced_accuracy": 0.7229053967554256,
+  "macro_precision": 0.8123017301381569,
+  "macro_recall": 0.7229053967554256,
+  "macro_f1": 0.7521124332830601,
+  "macro_auc_ovr": 0.9762651056259763,
+  "confusion_matrix": [
+    [
+      19,
+      4,
+      4,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      3,
+      40,
+      3,
+      0,
+      0,
+      2,
+      1
+    ],
+    [
+      5,
+      0,
+      71,
+      0,
+      6,
+      11,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      5,
+      0,
+      2,
+      0
+    ],
+    [
+      5,
+      0,
+      6,
+      0,
+      73,
+      39,
+      1
+    ],
+    [
+      1,
+      2,
+      9,
+      0,
+      13,
+      656,
+      0
+    ],
+    [
+      0,
+      3,
+      0,
+      0,
+      0,
+      1,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8901098901098901,
+  "balanced_accuracy": 0.7497821351890803,
+  "macro_precision": 0.8803813219783178,
+  "macro_recall": 0.7497821351890803,
+  "macro_f1": 0.800187444166414,
+  "macro_auc_ovr": 0.978221005078259,
+  "confusion_matrix": [
+    [
+      25,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      4,
+      36,
+      2,
+      0,
+      1,
+      6,
+      0
+    ],
+    [
+      4,
+      0,
+      64,
+      0,
+      5,
+      20,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      0,
+      2,
+      0
+    ],
+    [
+      2,
+      1,
+      2,
+      0,
+      77,
+      41,
+      1
+    ],
+    [
+      0,
+      1,
+      2,
+      0,
+      6,
+      672,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      4,
+      10
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8941058941058941,
+  "balanced_accuracy": 0.765948926008618,
+  "macro_precision": 0.8465296020039403,
+  "macro_recall": 0.765948926008618,
+  "macro_f1": 0.7949181004935274,
+  "macro_auc_ovr": 0.9852609146260273,
+  "confusion_matrix": [
+    [
+      22,
+      3,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      4,
+      39,
+      2,
+      0,
+      1,
+      2,
+      1
+    ],
+    [
+      5,
+      0,
+      65,
+      0,
+      8,
+      15,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      6,
+      1,
+      1,
+      0
+    ],
+    [
+      3,
+      0,
+      3,
+      0,
+      86,
+      31,
+      1
+    ],
+    [
+      3,
+      1,
+      3,
+      0,
+      10,
+      664,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8821178821178821,
+  "balanced_accuracy": 0.7613832214507436,
+  "macro_precision": 0.8172455150399747,
+  "macro_recall": 0.7613832214507436,
+  "macro_f1": 0.784996895891516,
+  "macro_auc_ovr": 0.982858354062608,
+  "confusion_matrix": [
+    [
+      19,
+      3,
+      3,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      5,
+      40,
+      2,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      5,
+      0,
+      64,
+      0,
+      6,
+      18,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      7,
+      1,
+      1,
+      0
+    ],
+    [
+      3,
+      1,
+      3,
+      0,
+      83,
+      33,
+      1
+    ],
+    [
+      2,
+      3,
+      5,
+      0,
+      14,
+      657,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8891108891108891,
+  "balanced_accuracy": 0.7738119095056769,
+  "macro_precision": 0.8253559322999762,
+  "macro_recall": 0.7738119095056769,
+  "macro_f1": 0.7978571845345435,
+  "macro_auc_ovr": 0.9843548033638151,
+  "confusion_matrix": [
+    [
+      19,
+      2,
+      2,
+      1,
+      3,
+      1,
+      0
+    ],
+    [
+      1,
+      41,
+      2,
+      1,
+      1,
+      3,
+      0
+    ],
+    [
+      3,
+      0,
+      70,
+      0,
+      7,
+      13,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      6,
+      0,
+      4,
+      0
+    ],
+    [
+      2,
+      0,
+      6,
+      0,
+      89,
+      26,
+      1
+    ],
+    [
+      1,
+      2,
+      9,
+      0,
+      18,
+      651,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8981018981018981,
+  "balanced_accuracy": 0.7842285028061449,
+  "macro_precision": 0.8563413467610871,
+  "macro_recall": 0.7842285028061449,
+  "macro_f1": 0.8092326395547771,
+  "macro_auc_ovr": 0.9849569657229288,
+  "confusion_matrix": [
+    [
+      23,
+      2,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      4,
+      40,
+      4,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      3,
+      0,
+      71,
+      0,
+      6,
+      13,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      6,
+      0,
+      2,
+      0
+    ],
+    [
+      4,
+      0,
+      4,
+      0,
+      88,
+      27,
+      1
+    ],
+    [
+      3,
+      2,
+      7,
+      0,
+      11,
+      658,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8551448551448552,
+  "balanced_accuracy": 0.6907372015169574,
+  "macro_precision": 0.764356801182547,
+  "macro_recall": 0.6907372015169574,
+  "macro_f1": 0.7149811534884318,
+  "macro_auc_ovr": 0.9662680114503629,
+  "confusion_matrix": [
+    [
+      16,
+      8,
+      2,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      2,
+      42,
+      1,
+      0,
+      0,
+      4,
+      0
+    ],
+    [
+      6,
+      3,
+      64,
+      1,
+      3,
+      16,
+      0
+    ],
+    [
+      2,
+      1,
+      0,
+      5,
+      0,
+      2,
+      0
+    ],
+    [
+      6,
+      0,
+      10,
+      0,
+      63,
+      45,
+      0
+    ],
+    [
+      1,
+      4,
+      12,
+      1,
+      9,
+      654,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      2,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8511488511488512,
+  "balanced_accuracy": 0.6383908555403321,
+  "macro_precision": 0.7616532861444097,
+  "macro_recall": 0.6383908555403321,
+  "macro_f1": 0.6792331868758302,
+  "macro_auc_ovr": 0.9687542112371551,
+  "confusion_matrix": [
+    [
+      16,
+      8,
+      1,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      1,
+      40,
+      3,
+      1,
+      1,
+      3,
+      0
+    ],
+    [
+      5,
+      2,
+      61,
+      0,
+      5,
+      20,
+      0
+    ],
+    [
+      2,
+      1,
+      0,
+      4,
+      0,
+      3,
+      0
+    ],
+    [
+      7,
+      0,
+      5,
+      1,
+      61,
+      50,
+      0
+    ],
+    [
+      1,
+      5,
+      7,
+      0,
+      7,
+      661,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      1,
+      4,
+      9
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8671328671328671,
+  "balanced_accuracy": 0.7047138593962524,
+  "macro_precision": 0.8025120604147917,
+  "macro_recall": 0.7047138593962524,
+  "macro_f1": 0.7428725512210671,
+  "macro_auc_ovr": 0.9708259104462785,
+  "confusion_matrix": [
+    [
+      18,
+      7,
+      0,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      1,
+      42,
+      2,
+      0,
+      1,
+      3,
+      0
+    ],
+    [
+      3,
+      1,
+      61,
+      1,
+      5,
+      22,
+      0
+    ],
+    [
+      2,
+      1,
+      0,
+      5,
+      0,
+      2,
+      0
+    ],
+    [
+      2,
+      0,
+      7,
+      1,
+      69,
+      45,
+      0
+    ],
+    [
+      1,
+      5,
+      6,
+      0,
+      8,
+      661,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      2,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8591408591408591,
+  "balanced_accuracy": 0.6732929377317423,
+  "macro_precision": 0.7824480060587129,
+  "macro_recall": 0.6732929377317423,
+  "macro_f1": 0.7128836366683723,
+  "macro_auc_ovr": 0.9695131010211137,
+  "confusion_matrix": [
+    [
+      16,
+      8,
+      1,
+      0,
+      1,
+      2,
+      0
+    ],
+    [
+      2,
+      40,
+      3,
+      0,
+      0,
+      4,
+      0
+    ],
+    [
+      6,
+      0,
+      63,
+      1,
+      4,
+      19,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      5,
+      0,
+      3,
+      0
+    ],
+    [
+      5,
+      0,
+      9,
+      1,
+      60,
+      49,
+      0
+    ],
+    [
+      1,
+      3,
+      6,
+      0,
+      6,
+      665,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      3,
+      11
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8601398601398601,
+  "balanced_accuracy": 0.6883676027710258,
+  "macro_precision": 0.7669090362125326,
+  "macro_recall": 0.6883676027710258,
+  "macro_f1": 0.7133046950268469,
+  "macro_auc_ovr": 0.9736692405970999,
+  "confusion_matrix": [
+    [
+      18,
+      6,
+      3,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      43,
+      2,
+      1,
+      0,
+      2,
+      0
+    ],
+    [
+      4,
+      4,
+      60,
+      1,
+      6,
+      18,
+      0
+    ],
+    [
+      2,
+      1,
+      0,
+      5,
+      0,
+      2,
+      0
+    ],
+    [
+      7,
+      1,
+      7,
+      1,
+      61,
+      47,
+      0
+    ],
+    [
+      1,
+      5,
+      5,
+      0,
+      7,
+      663,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      3,
+      11
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8541458541458542,
+  "balanced_accuracy": 0.6745351569442816,
+  "macro_precision": 0.7095622762978415,
+  "macro_recall": 0.6745351569442816,
+  "macro_f1": 0.6883959731539103,
+  "macro_auc_ovr": 0.9714960838041566,
+  "confusion_matrix": [
+    [
+      14,
+      5,
+      3,
+      1,
+      2,
+      2,
+      1
+    ],
+    [
+      3,
+      40,
+      1,
+      2,
+      0,
+      3,
+      0
+    ],
+    [
+      3,
+      5,
+      65,
+      0,
+      6,
+      14,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      5,
+      0,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      8,
+      0,
+      70,
+      40,
+      1
+    ],
+    [
+      2,
+      2,
+      11,
+      0,
+      15,
+      650,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      4,
+      11
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8711288711288712,
+  "balanced_accuracy": 0.6885912367545527,
+  "macro_precision": 0.7983734243736237,
+  "macro_recall": 0.6885912367545527,
+  "macro_f1": 0.7295385980283313,
+  "macro_auc_ovr": 0.9755218241713219,
+  "confusion_matrix": [
+    [
+      16,
+      6,
+      2,
+      0,
+      0,
+      4,
+      0
+    ],
+    [
+      2,
+      41,
+      3,
+      0,
+      1,
+      2,
+      0
+    ],
+    [
+      3,
+      2,
+      67,
+      1,
+      5,
+      14,
+      1
+    ],
+    [
+      0,
+      2,
+      0,
+      4,
+      2,
+      2,
+      0
+    ],
+    [
+      3,
+      1,
+      1,
+      0,
+      80,
+      39,
+      0
+    ],
+    [
+      1,
+      2,
+      8,
+      0,
+      17,
+      653,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      3,
+      11
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8681318681318682,
+  "balanced_accuracy": 0.7025757353226518,
+  "macro_precision": 0.7814950321006744,
+  "macro_recall": 0.7025757353226518,
+  "macro_f1": 0.724903662714048,
+  "macro_auc_ovr": 0.9735645883581877,
+  "confusion_matrix": [
+    [
+      15,
+      8,
+      1,
+      0,
+      1,
+      3,
+      0
+    ],
+    [
+      4,
+      39,
+      1,
+      0,
+      0,
+      3,
+      2
+    ],
+    [
+      3,
+      3,
+      67,
+      0,
+      6,
+      13,
+      1
+    ],
+    [
+      0,
+      2,
+      0,
+      5,
+      0,
+      2,
+      1
+    ],
+    [
+      1,
+      0,
+      7,
+      0,
+      73,
+      41,
+      2
+    ],
+    [
+      1,
+      4,
+      6,
+      0,
+      12,
+      657,
+      1
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8691308691308691,
+  "balanced_accuracy": 0.6953554224629416,
+  "macro_precision": 0.7575728362623877,
+  "macro_recall": 0.6953554224629416,
+  "macro_f1": 0.7182452729269607,
+  "macro_auc_ovr": 0.971905718545412,
+  "confusion_matrix": [
+    [
+      18,
+      5,
+      2,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      3,
+      41,
+      1,
+      0,
+      1,
+      2,
+      1
+    ],
+    [
+      2,
+      2,
+      61,
+      1,
+      7,
+      18,
+      2
+    ],
+    [
+      0,
+      1,
+      0,
+      5,
+      2,
+      1,
+      1
+    ],
+    [
+      5,
+      1,
+      2,
+      0,
+      80,
+      34,
+      2
+    ],
+    [
+      2,
+      2,
+      8,
+      0,
+      14,
+      655,
+      0
+    ],
+    [
+      0,
+      2,
+      1,
+      0,
+      0,
+      3,
+      10
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8641358641358642,
+  "balanced_accuracy": 0.6847807690241486,
+  "macro_precision": 0.7822557676619761,
+  "macro_recall": 0.6847807690241486,
+  "macro_f1": 0.7115855363222471,
+  "macro_auc_ovr": 0.9708728251564722,
+  "confusion_matrix": [
+    [
+      15,
+      5,
+      2,
+      0,
+      2,
+      4,
+      0
+    ],
+    [
+      4,
+      38,
+      2,
+      0,
+      0,
+      4,
+      1
+    ],
+    [
+      2,
+      0,
+      69,
+      0,
+      7,
+      14,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      4,
+      1,
+      2,
+      1
+    ],
+    [
+      4,
+      0,
+      6,
+      0,
+      70,
+      42,
+      2
+    ],
+    [
+      2,
+      3,
+      10,
+      0,
+      9,
+      656,
+      1
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8911088911088911,
+  "balanced_accuracy": 0.7554437684856927,
+  "macro_precision": 0.848746047724793,
+  "macro_recall": 0.7554437684856927,
+  "macro_f1": 0.779629765650998,
+  "macro_auc_ovr": 0.981485652562359,
+  "confusion_matrix": [
+    [
+      24,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      3,
+      38,
+      2,
+      0,
+      1,
+      4,
+      1
+    ],
+    [
+      3,
+      0,
+      69,
+      0,
+      8,
+      13,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      4,
+      2,
+      2,
+      0
+    ],
+    [
+      5,
+      0,
+      4,
+      0,
+      83,
+      32,
+      0
+    ],
+    [
+      3,
+      4,
+      5,
+      0,
+      9,
+      660,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8931068931068931,
+  "balanced_accuracy": 0.7740255898538794,
+  "macro_precision": 0.8043298028737633,
+  "macro_recall": 0.7740255898538794,
+  "macro_f1": 0.7838376830396697,
+  "macro_auc_ovr": 0.9774167402655233,
+  "confusion_matrix": [
+    [
+      21,
+      6,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      43,
+      2,
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      5,
+      1,
+      67,
+      0,
+      4,
+      16,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      7,
+      0,
+      0,
+      1
+    ],
+    [
+      4,
+      0,
+      5,
+      0,
+      80,
+      34,
+      1
+    ],
+    [
+      1,
+      4,
+      4,
+      2,
+      6,
+      664,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8931068931068931,
+  "balanced_accuracy": 0.7562994583123247,
+  "macro_precision": 0.8152245547508018,
+  "macro_recall": 0.7562994583123247,
+  "macro_f1": 0.7820931615308974,
+  "macro_auc_ovr": 0.9802293303277646,
+  "confusion_matrix": [
+    [
+      19,
+      6,
+      1,
+      0,
+      2,
+      0,
+      0
+    ],
+    [
+      2,
+      41,
+      3,
+      2,
+      0,
+      0,
+      1
+    ],
+    [
+      2,
+      2,
+      67,
+      0,
+      7,
+      15,
+      0
+    ],
+    [
+      0,
+      2,
+      1,
+      6,
+      0,
+      1,
+      0
+    ],
+    [
+      2,
+      0,
+      6,
+      0,
+      83,
+      33,
+      0
+    ],
+    [
+      3,
+      1,
+      4,
+      0,
+      8,
+      665,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.9020979020979021,
+  "balanced_accuracy": 0.7636638503022963,
+  "macro_precision": 0.8297156415929462,
+  "macro_recall": 0.7636638503022963,
+  "macro_f1": 0.7886278906119747,
+  "macro_auc_ovr": 0.9836494211361492,
+  "confusion_matrix": [
+    [
+      20,
+      5,
+      2,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      43,
+      1,
+      1,
+      1,
+      2,
+      1
+    ],
+    [
+      4,
+      1,
+      69,
+      0,
+      6,
+      12,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      5,
+      1,
+      2,
+      1
+    ],
+    [
+      4,
+      1,
+      0,
+      0,
+      90,
+      29,
+      0
+    ],
+    [
+      0,
+      3,
+      4,
+      0,
+      11,
+      663,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.903096903096903,
+  "balanced_accuracy": 0.7752377479138797,
+  "macro_precision": 0.8377835419882239,
+  "macro_recall": 0.7752377479138797,
+  "macro_f1": 0.7984604391367316,
+  "macro_auc_ovr": 0.9782536380854268,
+  "confusion_matrix": [
+    [
+      22,
+      4,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      3,
+      40,
+      3,
+      1,
+      0,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      74,
+      0,
+      5,
+      13,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      5,
+      1,
+      2,
+      0
+    ],
+    [
+      5,
+      0,
+      3,
+      0,
+      84,
+      31,
+      1
+    ],
+    [
+      1,
+      2,
+      3,
+      0,
+      10,
+      665,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8551448551448552,
+  "balanced_accuracy": 0.6869691877847386,
+  "macro_precision": 0.7980124627403364,
+  "macro_recall": 0.6869691877847386,
+  "macro_f1": 0.715419351921078,
+  "macro_auc_ovr": 0.9703846827312926,
+  "confusion_matrix": [
+    [
+      16,
+      9,
+      0,
+      0,
+      1,
+      2,
+      0
+    ],
+    [
+      1,
+      43,
+      3,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      2,
+      3,
+      66,
+      0,
+      4,
+      18,
+      0
+    ],
+    [
+      0,
+      2,
+      1,
+      4,
+      0,
+      2,
+      1
+    ],
+    [
+      6,
+      4,
+      9,
+      0,
+      59,
+      46,
+      0
+    ],
+    [
+      0,
+      5,
+      9,
+      0,
+      11,
+      655,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8501498501498501,
+  "balanced_accuracy": 0.6552943431173804,
+  "macro_precision": 0.7796303718789673,
+  "macro_recall": 0.6552943431173804,
+  "macro_f1": 0.6721503588166337,
+  "macro_auc_ovr": 0.9702075921087772,
+  "confusion_matrix": [
+    [
+      15,
+      9,
+      2,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      2,
+      42,
+      3,
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      3,
+      2,
+      64,
+      0,
+      4,
+      20,
+      0
+    ],
+    [
+      0,
+      2,
+      1,
+      2,
+      0,
+      3,
+      2
+    ],
+    [
+      6,
+      4,
+      9,
+      0,
+      58,
+      47,
+      0
+    ],
+    [
+      0,
+      3,
+      9,
+      0,
+      13,
+      656,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8501498501498501,
+  "balanced_accuracy": 0.6551157870525542,
+  "macro_precision": 0.8047027929961599,
+  "macro_recall": 0.6551157870525542,
+  "macro_f1": 0.684001451041466,
+  "macro_auc_ovr": 0.9700458470133768,
+  "confusion_matrix": [
+    [
+      16,
+      10,
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      1,
+      43,
+      3,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      1,
+      3,
+      64,
+      0,
+      6,
+      19,
+      0
+    ],
+    [
+      0,
+      3,
+      1,
+      2,
+      0,
+      3,
+      1
+    ],
+    [
+      6,
+      3,
+      8,
+      0,
+      59,
+      48,
+      0
+    ],
+    [
+      0,
+      4,
+      6,
+      0,
+      17,
+      654,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8561438561438561,
+  "balanced_accuracy": 0.6795767146664591,
+  "macro_precision": 0.8021801222923443,
+  "macro_recall": 0.6795767146664591,
+  "macro_f1": 0.7136352601784719,
+  "macro_auc_ovr": 0.9690450465892472,
+  "confusion_matrix": [
+    [
+      16,
+      10,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      43,
+      3,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      1,
+      3,
+      64,
+      0,
+      3,
+      21,
+      1
+    ],
+    [
+      0,
+      2,
+      0,
+      4,
+      0,
+      3,
+      1
+    ],
+    [
+      6,
+      4,
+      8,
+      0,
+      63,
+      43,
+      0
+    ],
+    [
+      0,
+      5,
+      8,
+      0,
+      13,
+      655,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8551448551448552,
+  "balanced_accuracy": 0.7040093022125313,
+  "macro_precision": 0.8144038176202403,
+  "macro_recall": 0.7040093022125313,
+  "macro_f1": 0.7364584238506816,
+  "macro_auc_ovr": 0.9720016982366736,
+  "confusion_matrix": [
+    [
+      17,
+      9,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      46,
+      2,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      2,
+      5,
+      65,
+      0,
+      5,
+      16,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      5,
+      0,
+      2,
+      1
+    ],
+    [
+      5,
+      4,
+      6,
+      0,
+      59,
+      50,
+      0
+    ],
+    [
+      0,
+      6,
+      7,
+      0,
+      16,
+      652,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8651348651348651,
+  "balanced_accuracy": 0.7110706555506346,
+  "macro_precision": 0.7478989571394373,
+  "macro_recall": 0.7110706555506346,
+  "macro_f1": 0.725840706717929,
+  "macro_auc_ovr": 0.9751320271928481,
+  "confusion_matrix": [
+    [
+      18,
+      6,
+      1,
+      0,
+      1,
+      2,
+      0
+    ],
+    [
+      4,
+      41,
+      1,
+      0,
+      1,
+      2,
+      0
+    ],
+    [
+      4,
+      2,
+      65,
+      1,
+      5,
+      15,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      6,
+      0,
+      2,
+      1
+    ],
+    [
+      3,
+      0,
+      7,
+      0,
+      77,
+      36,
+      1
+    ],
+    [
+      2,
+      4,
+      6,
+      0,
+      19,
+      649,
+      1
+    ],
+    [
+      0,
+      2,
+      2,
+      1,
+      0,
+      1,
+      10
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8711288711288712,
+  "balanced_accuracy": 0.7171694529940521,
+  "macro_precision": 0.7800875342618012,
+  "macro_recall": 0.7171694529940521,
+  "macro_f1": 0.7450964933578407,
+  "macro_auc_ovr": 0.9756017609374622,
+  "confusion_matrix": [
+    [
+      16,
+      7,
+      2,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      5,
+      37,
+      1,
+      0,
+      1,
+      4,
+      1
+    ],
+    [
+      4,
+      2,
+      67,
+      1,
+      7,
+      12,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      7,
+      1,
+      2,
+      0
+    ],
+    [
+      1,
+      0,
+      6,
+      0,
+      77,
+      39,
+      1
+    ],
+    [
+      1,
+      4,
+      6,
+      0,
+      12,
+      657,
+      1
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      1,
+      2,
+      11
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8681318681318682,
+  "balanced_accuracy": 0.7287847688457222,
+  "macro_precision": 0.7486553971721316,
+  "macro_recall": 0.7287847688457222,
+  "macro_f1": 0.734209603565192,
+  "macro_auc_ovr": 0.9771922392568152,
+  "confusion_matrix": [
+    [
+      19,
+      6,
+      0,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      4,
+      42,
+      1,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      3,
+      4,
+      67,
+      0,
+      6,
+      13,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      6,
+      0,
+      1,
+      2
+    ],
+    [
+      2,
+      0,
+      4,
+      0,
+      75,
+      41,
+      2
+    ],
+    [
+      4,
+      3,
+      6,
+      1,
+      16,
+      649,
+      2
+    ],
+    [
+      0,
+      2,
+      0,
+      1,
+      1,
+      1,
+      11
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8661338661338661,
+  "balanced_accuracy": 0.698112558732663,
+  "macro_precision": 0.7524877749184016,
+  "macro_recall": 0.698112558732663,
+  "macro_f1": 0.7162722915669882,
+  "macro_auc_ovr": 0.9760095526937193,
+  "confusion_matrix": [
+    [
+      18,
+      6,
+      3,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      4,
+      36,
+      1,
+      0,
+      3,
+      4,
+      1
+    ],
+    [
+      4,
+      2,
+      67,
+      0,
+      5,
+      14,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      5,
+      2,
+      1,
+      2
+    ],
+    [
+      3,
+      2,
+      6,
+      1,
+      71,
+      39,
+      2
+    ],
+    [
+      2,
+      2,
+      10,
+      0,
+      9,
+      658,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      1,
+      1,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8731268731268731,
+  "balanced_accuracy": 0.721473141825804,
+  "macro_precision": 0.7913751224486824,
+  "macro_recall": 0.721473141825804,
+  "macro_f1": 0.740550063725275,
+  "macro_auc_ovr": 0.9756651508260339,
+  "confusion_matrix": [
+    [
+      17,
+      6,
+      4,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      5,
+      41,
+      1,
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      69,
+      0,
+      5,
+      13,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      5,
+      0,
+      2,
+      1
+    ],
+    [
+      4,
+      0,
+      7,
+      0,
+      73,
+      39,
+      1
+    ],
+    [
+      2,
+      4,
+      7,
+      0,
+      11,
+      656,
+      1
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8871128871128872,
+  "balanced_accuracy": 0.7719966692091076,
+  "macro_precision": 0.8382725467158924,
+  "macro_recall": 0.7719966692091076,
+  "macro_f1": 0.7993873664793015,
+  "macro_auc_ovr": 0.9820497090633094,
+  "confusion_matrix": [
+    [
+      19,
+      5,
+      0,
+      0,
+      3,
+      1,
+      0
+    ],
+    [
+      0,
+      42,
+      3,
+      0,
+      0,
+      2,
+      2
+    ],
+    [
+      2,
+      2,
+      65,
+      0,
+      8,
+      16,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      7,
+      0,
+      1,
+      0
+    ],
+    [
+      3,
+      1,
+      3,
+      0,
+      86,
+      30,
+      1
+    ],
+    [
+      1,
+      3,
+      5,
+      0,
+      16,
+      656,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8831168831168831,
+  "balanced_accuracy": 0.7459622765852519,
+  "macro_precision": 0.8208519243403959,
+  "macro_recall": 0.7459622765852519,
+  "macro_f1": 0.7774051149106435,
+  "macro_auc_ovr": 0.9810646858143769,
+  "confusion_matrix": [
+    [
+      19,
+      7,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      6,
+      38,
+      3,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      3,
+      65,
+      1,
+      6,
+      17,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      0,
+      2,
+      0
+    ],
+    [
+      1,
+      0,
+      4,
+      1,
+      80,
+      38,
+      0
+    ],
+    [
+      0,
+      5,
+      4,
+      0,
+      9,
+      663,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      2,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8911088911088911,
+  "balanced_accuracy": 0.7587680617223442,
+  "macro_precision": 0.852412739766649,
+  "macro_recall": 0.7587680617223442,
+  "macro_f1": 0.7959742876800907,
+  "macro_auc_ovr": 0.9815822002803747,
+  "confusion_matrix": [
+    [
+      21,
+      3,
+      2,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      4,
+      42,
+      2,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      2,
+      1,
+      71,
+      0,
+      3,
+      16,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      1,
+      1,
+      0
+    ],
+    [
+      2,
+      0,
+      7,
+      1,
+      80,
+      34,
+      0
+    ],
+    [
+      0,
+      3,
+      9,
+      0,
+      8,
+      661,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      4,
+      10
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8831168831168831,
+  "balanced_accuracy": 0.7578663876886755,
+  "macro_precision": 0.8016515446619615,
+  "macro_recall": 0.7578663876886755,
+  "macro_f1": 0.7729873616640782,
+  "macro_auc_ovr": 0.9803714873944279,
+  "confusion_matrix": [
+    [
+      22,
+      2,
+      1,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      3,
+      40,
+      3,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      2,
+      1,
+      65,
+      0,
+      7,
+      17,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      6,
+      1,
+      1,
+      1
+    ],
+    [
+      5,
+      0,
+      4,
+      1,
+      77,
+      36,
+      1
+    ],
+    [
+      1,
+      5,
+      3,
+      0,
+      10,
+      661,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8841158841158842,
+  "balanced_accuracy": 0.7550549120965913,
+  "macro_precision": 0.8326762962077232,
+  "macro_recall": 0.7550549120965913,
+  "macro_f1": 0.7873086071463941,
+  "macro_auc_ovr": 0.9789580986537233,
+  "confusion_matrix": [
+    [
+      17,
+      4,
+      3,
+      0,
+      2,
+      2,
+      0
+    ],
+    [
+      4,
+      40,
+      3,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      2,
+      3,
+      67,
+      0,
+      4,
+      17,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      7,
+      0,
+      1,
+      0
+    ],
+    [
+      3,
+      0,
+      5,
+      0,
+      82,
+      33,
+      1
+    ],
+    [
+      2,
+      5,
+      4,
+      0,
+      11,
+      659,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8601398601398601,
+  "balanced_accuracy": 0.7014471732987638,
+  "macro_precision": 0.7416326591838901,
+  "macro_recall": 0.7014471732987638,
+  "macro_f1": 0.7141339652287284,
+  "macro_auc_ovr": 0.9724068353237421,
+  "confusion_matrix": [
+    [
+      16,
+      8,
+      0,
+      1,
+      0,
+      3,
+      0
+    ],
+    [
+      2,
+      42,
+      3,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      3,
+      3,
+      64,
+      0,
+      5,
+      17,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      5,
+      0,
+      2,
+      1
+    ],
+    [
+      7,
+      2,
+      9,
+      1,
+      64,
+      41,
+      0
+    ],
+    [
+      1,
+      5,
+      7,
+      0,
+      11,
+      657,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8581418581418582,
+  "balanced_accuracy": 0.6865415405285928,
+  "macro_precision": 0.7536514567322606,
+  "macro_recall": 0.6865415405285928,
+  "macro_f1": 0.7088941883119881,
+  "macro_auc_ovr": 0.9722952340888077,
+  "confusion_matrix": [
+    [
+      18,
+      7,
+      1,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      2,
+      43,
+      3,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      3,
+      1,
+      66,
+      0,
+      4,
+      19,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      4,
+      0,
+      3,
+      1
+    ],
+    [
+      6,
+      3,
+      7,
+      1,
+      66,
+      41,
+      0
+    ],
+    [
+      0,
+      6,
+      9,
+      0,
+      14,
+      651,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      3,
+      11
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8561438561438561,
+  "balanced_accuracy": 0.6583560854862256,
+  "macro_precision": 0.7534167420251164,
+  "macro_recall": 0.6583560854862256,
+  "macro_f1": 0.6933527055527791,
+  "macro_auc_ovr": 0.9732200964481063,
+  "confusion_matrix": [
+    [
+      17,
+      8,
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      3,
+      40,
+      3,
+      0,
+      0,
+      3,
+      0
+    ],
+    [
+      2,
+      1,
+      65,
+      0,
+      4,
+      21,
+      0
+    ],
+    [
+      0,
+      2,
+      1,
+      4,
+      0,
+      2,
+      1
+    ],
+    [
+      6,
+      2,
+      5,
+      1,
+      61,
+      49,
+      0
+    ],
+    [
+      0,
+      4,
+      5,
+      0,
+      12,
+      660,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      4,
+      10
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8551448551448552,
+  "balanced_accuracy": 0.6804610104055021,
+  "macro_precision": 0.7381005567057412,
+  "macro_recall": 0.6804610104055021,
+  "macro_f1": 0.6982639442995885,
+  "macro_auc_ovr": 0.9719848875669731,
+  "confusion_matrix": [
+    [
+      18,
+      8,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      43,
+      3,
+      0,
+      0,
+      3,
+      0
+    ],
+    [
+      3,
+      2,
+      61,
+      0,
+      6,
+      20,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      4,
+      0,
+      3,
+      1
+    ],
+    [
+      8,
+      2,
+      6,
+      2,
+      58,
+      48,
+      0
+    ],
+    [
+      0,
+      5,
+      6,
+      0,
+      9,
+      660,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8591408591408591,
+  "balanced_accuracy": 0.6771627164233809,
+  "macro_precision": 0.7470200887609951,
+  "macro_recall": 0.6771627164233809,
+  "macro_f1": 0.7041654309019734,
+  "macro_auc_ovr": 0.973409129729253,
+  "confusion_matrix": [
+    [
+      17,
+      6,
+      2,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      40,
+      3,
+      0,
+      0,
+      5,
+      0
+    ],
+    [
+      2,
+      2,
+      70,
+      0,
+      4,
+      15,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      4,
+      0,
+      3,
+      1
+    ],
+    [
+      6,
+      1,
+      8,
+      1,
+      64,
+      44,
+      0
+    ],
+    [
+      0,
+      5,
+      8,
+      0,
+      13,
+      654,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      3,
+      11
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8601398601398601,
+  "balanced_accuracy": 0.6846945594251016,
+  "macro_precision": 0.7055613007716567,
+  "macro_recall": 0.6846945594251016,
+  "macro_f1": 0.6878687400331059,
+  "macro_auc_ovr": 0.970766203326084,
+  "confusion_matrix": [
+    [
+      15,
+      7,
+      3,
+      0,
+      1,
+      2,
+      0
+    ],
+    [
+      2,
+      41,
+      2,
+      1,
+      0,
+      2,
+      1
+    ],
+    [
+      4,
+      3,
+      67,
+      0,
+      5,
+      13,
+      1
+    ],
+    [
+      1,
+      2,
+      0,
+      4,
+      0,
+      2,
+      1
+    ],
+    [
+      5,
+      1,
+      11,
+      1,
+      65,
+      39,
+      2
+    ],
+    [
+      0,
+      3,
+      7,
+      1,
+      13,
+      656,
+      1
+    ],
+    [
+      0,
+      1,
+      2,
+      0,
+      0,
+      0,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8831168831168831,
+  "balanced_accuracy": 0.7564872964959751,
+  "macro_precision": 0.7917019791465526,
+  "macro_recall": 0.7564872964959751,
+  "macro_f1": 0.7718991603621109,
+  "macro_auc_ovr": 0.9781605911620564,
+  "confusion_matrix": [
+    [
+      17,
+      7,
+      2,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      2,
+      42,
+      1,
+      0,
+      1,
+      2,
+      1
+    ],
+    [
+      4,
+      0,
+      67,
+      2,
+      7,
+      12,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      7,
+      1,
+      2,
+      0
+    ],
+    [
+      3,
+      0,
+      6,
+      0,
+      78,
+      37,
+      0
+    ],
+    [
+      0,
+      2,
+      5,
+      1,
+      13,
+      660,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8591408591408591,
+  "balanced_accuracy": 0.70152150102616,
+  "macro_precision": 0.7059411583452884,
+  "macro_recall": 0.70152150102616,
+  "macro_f1": 0.6990237682827621,
+  "macro_auc_ovr": 0.9735602125565288,
+  "confusion_matrix": [
+    [
+      14,
+      7,
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    [
+      4,
+      42,
+      1,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      3,
+      2,
+      64,
+      1,
+      7,
+      14,
+      2
+    ],
+    [
+      0,
+      1,
+      0,
+      6,
+      0,
+      2,
+      1
+    ],
+    [
+      3,
+      0,
+      7,
+      0,
+      69,
+      43,
+      2
+    ],
+    [
+      1,
+      3,
+      7,
+      2,
+      13,
+      653,
+      2
+    ],
+    [
+      0,
+      2,
+      0,
+      1,
+      0,
+      1,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8691308691308691,
+  "balanced_accuracy": 0.7187022903925978,
+  "macro_precision": 0.7155677046050517,
+  "macro_recall": 0.7187022903925978,
+  "macro_f1": 0.7126265600067122,
+  "macro_auc_ovr": 0.974137044666805,
+  "confusion_matrix": [
+    [
+      20,
+      5,
+      0,
+      0,
+      1,
+      2,
+      0
+    ],
+    [
+      2,
+      39,
+      2,
+      1,
+      0,
+      3,
+      2
+    ],
+    [
+      4,
+      1,
+      65,
+      0,
+      7,
+      14,
+      2
+    ],
+    [
+      0,
+      1,
+      0,
+      5,
+      1,
+      1,
+      2
+    ],
+    [
+      4,
+      0,
+      7,
+      1,
+      76,
+      35,
+      1
+    ],
+    [
+      2,
+      4,
+      7,
+      1,
+      12,
+      653,
+      2
+    ],
+    [
+      0,
+      2,
+      0,
+      1,
+      0,
+      1,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8611388611388612,
+  "balanced_accuracy": 0.6928267450832217,
+  "macro_precision": 0.7445653208398161,
+  "macro_recall": 0.6928267450832217,
+  "macro_f1": 0.7058453399585277,
+  "macro_auc_ovr": 0.970988528822858,
+  "confusion_matrix": [
+    [
+      15,
+      7,
+      2,
+      0,
+      1,
+      3,
+      0
+    ],
+    [
+      3,
+      41,
+      2,
+      0,
+      0,
+      2,
+      1
+    ],
+    [
+      3,
+      1,
+      68,
+      1,
+      8,
+      12,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      4,
+      1,
+      2,
+      1
+    ],
+    [
+      4,
+      1,
+      8,
+      0,
+      72,
+      38,
+      1
+    ],
+    [
+      4,
+      5,
+      13,
+      0,
+      9,
+      649,
+      1
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8911088911088911,
+  "balanced_accuracy": 0.7863038029722943,
+  "macro_precision": 0.8186884460665781,
+  "macro_recall": 0.7863038029722943,
+  "macro_f1": 0.798714187552663,
+  "macro_auc_ovr": 0.9774505661653888,
+  "confusion_matrix": [
+    [
+      21,
+      5,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      2,
+      43,
+      3,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      2,
+      1,
+      70,
+      0,
+      5,
+      14,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      0,
+      2,
+      0
+    ],
+    [
+      3,
+      0,
+      4,
+      0,
+      80,
+      35,
+      2
+    ],
+    [
+      1,
+      4,
+      5,
+      0,
+      13,
+      658,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8911088911088911,
+  "balanced_accuracy": 0.797033759706607,
+  "macro_precision": 0.8229262225229966,
+  "macro_recall": 0.797033759706607,
+  "macro_f1": 0.8061514913200206,
+  "macro_auc_ovr": 0.9820299753221109,
+  "confusion_matrix": [
+    [
+      22,
+      5,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      41,
+      3,
+      0,
+      2,
+      0,
+      1
+    ],
+    [
+      3,
+      0,
+      70,
+      0,
+      5,
+      13,
+      2
+    ],
+    [
+      0,
+      1,
+      0,
+      8,
+      0,
+      1,
+      0
+    ],
+    [
+      3,
+      0,
+      5,
+      1,
+      77,
+      38,
+      0
+    ],
+    [
+      1,
+      7,
+      5,
+      0,
+      7,
+      661,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.9050949050949051,
+  "balanced_accuracy": 0.8064006915825874,
+  "macro_precision": 0.8373558422363397,
+  "macro_recall": 0.8064006915825874,
+  "macro_f1": 0.8158602214344916,
+  "macro_auc_ovr": 0.9830957703512108,
+  "confusion_matrix": [
+    [
+      25,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      42,
+      1,
+      0,
+      3,
+      0,
+      1
+    ],
+    [
+      2,
+      0,
+      70,
+      0,
+      8,
+      13,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      6,
+      1,
+      2,
+      0
+    ],
+    [
+      3,
+      0,
+      6,
+      1,
+      86,
+      27,
+      1
+    ],
+    [
+      3,
+      2,
+      6,
+      0,
+      6,
+      663,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8911088911088911,
+  "balanced_accuracy": 0.777293199502339,
+  "macro_precision": 0.8016682921869354,
+  "macro_recall": 0.777293199502339,
+  "macro_f1": 0.7860545892853337,
+  "macro_auc_ovr": 0.9794177813402788,
+  "confusion_matrix": [
+    [
+      22,
+      4,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      3,
+      42,
+      2,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      2,
+      0,
+      66,
+      0,
+      11,
+      13,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      0,
+      2,
+      0
+    ],
+    [
+      2,
+      1,
+      6,
+      0,
+      83,
+      29,
+      3
+    ],
+    [
+      1,
+      3,
+      7,
+      1,
+      8,
+      660,
+      1
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      2,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.9010989010989011,
+  "balanced_accuracy": 0.7811133308557999,
+  "macro_precision": 0.8765880381780937,
+  "macro_recall": 0.7811133308557999,
+  "macro_f1": 0.8197082364399666,
+  "macro_auc_ovr": 0.9794135487177964,
+  "confusion_matrix": [
+    [
+      23,
+      3,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      41,
+      3,
+      0,
+      0,
+      2,
+      1
+    ],
+    [
+      1,
+      1,
+      72,
+      0,
+      7,
+      12,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      6,
+      1,
+      2,
+      0
+    ],
+    [
+      1,
+      0,
+      2,
+      0,
+      89,
+      32,
+      0
+    ],
+    [
+      2,
+      2,
+      7,
+      0,
+      11,
+      659,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      2,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8581418581418582,
+  "balanced_accuracy": 0.6787412583742769,
+  "macro_precision": 0.7367721267031506,
+  "macro_recall": 0.6787412583742769,
+  "macro_f1": 0.6970595570089503,
+  "macro_auc_ovr": 0.9695380726352066,
+  "confusion_matrix": [
+    [
+      15,
+      10,
+      2,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      39,
+      3,
+      0,
+      0,
+      4,
+      3
+    ],
+    [
+      3,
+      2,
+      65,
+      0,
+      4,
+      18,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      5,
+      0,
+      2,
+      1
+    ],
+    [
+      7,
+      4,
+      7,
+      0,
+      62,
+      44,
+      0
+    ],
+    [
+      0,
+      4,
+      8,
+      0,
+      8,
+      661,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      2,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8551448551448552,
+  "balanced_accuracy": 0.6542493736770779,
+  "macro_precision": 0.7374172019884943,
+  "macro_recall": 0.6542493736770779,
+  "macro_f1": 0.6843377658633116,
+  "macro_auc_ovr": 0.9702146277513796,
+  "confusion_matrix": [
+    [
+      16,
+      9,
+      1,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      1,
+      41,
+      3,
+      0,
+      0,
+      3,
+      1
+    ],
+    [
+      3,
+      0,
+      63,
+      1,
+      5,
+      20,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      4,
+      0,
+      3,
+      1
+    ],
+    [
+      6,
+      4,
+      6,
+      0,
+      62,
+      45,
+      1
+    ],
+    [
+      0,
+      2,
+      8,
+      0,
+      11,
+      660,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      4,
+      10
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8591408591408591,
+  "balanced_accuracy": 0.7043728101484408,
+  "macro_precision": 0.7765724036770211,
+  "macro_recall": 0.7043728101484408,
+  "macro_f1": 0.726764868881442,
+  "macro_auc_ovr": 0.9709214739088362,
+  "confusion_matrix": [
+    [
+      18,
+      8,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      41,
+      3,
+      1,
+      0,
+      2,
+      1
+    ],
+    [
+      3,
+      2,
+      66,
+      0,
+      4,
+      18,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      5,
+      0,
+      2,
+      1
+    ],
+    [
+      6,
+      4,
+      7,
+      0,
+      57,
+      49,
+      1
+    ],
+    [
+      0,
+      4,
+      5,
+      0,
+      12,
+      660,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8541458541458542,
+  "balanced_accuracy": 0.6735135593854668,
+  "macro_precision": 0.7709336224276849,
+  "macro_recall": 0.6735135593854668,
+  "macro_f1": 0.7033979943287383,
+  "macro_auc_ovr": 0.9707179076841778,
+  "confusion_matrix": [
+    [
+      18,
+      9,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      41,
+      3,
+      0,
+      0,
+      4,
+      1
+    ],
+    [
+      3,
+      3,
+      60,
+      1,
+      3,
+      22,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      4,
+      0,
+      3,
+      1
+    ],
+    [
+      6,
+      4,
+      9,
+      0,
+      58,
+      47,
+      0
+    ],
+    [
+      0,
+      3,
+      6,
+      0,
+      10,
+      662,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8541458541458542,
+  "balanced_accuracy": 0.6878179570210106,
+  "macro_precision": 0.7439407246548291,
+  "macro_recall": 0.6878179570210106,
+  "macro_f1": 0.7029065868010533,
+  "macro_auc_ovr": 0.9723741346612941,
+  "confusion_matrix": [
+    [
+      18,
+      8,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      43,
+      3,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      5,
+      3,
+      58,
+      1,
+      7,
+      18,
+      1
+    ],
+    [
+      1,
+      1,
+      0,
+      4,
+      0,
+      3,
+      1
+    ],
+    [
+      7,
+      4,
+      7,
+      0,
+      61,
+      45,
+      0
+    ],
+    [
+      0,
+      5,
+      5,
+      0,
+      13,
+      658,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8691308691308691,
+  "balanced_accuracy": 0.7074529769275907,
+  "macro_precision": 0.7502111730257647,
+  "macro_recall": 0.7074529769275907,
+  "macro_f1": 0.7268129987829195,
+  "macro_auc_ovr": 0.9752003353284666,
+  "confusion_matrix": [
+    [
+      17,
+      8,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      2,
+      35,
+      5,
+      1,
+      1,
+      5,
+      0
+    ],
+    [
+      4,
+      2,
+      63,
+      0,
+      9,
+      15,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      6,
+      0,
+      2,
+      0
+    ],
+    [
+      5,
+      0,
+      2,
+      1,
+      79,
+      34,
+      3
+    ],
+    [
+      0,
+      3,
+      9,
+      0,
+      11,
+      658,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8691308691308691,
+  "balanced_accuracy": 0.7318241750911778,
+  "macro_precision": 0.786118456706692,
+  "macro_recall": 0.7318241750911778,
+  "macro_f1": 0.7558541252641264,
+  "macro_auc_ovr": 0.9765360813635808,
+  "confusion_matrix": [
+    [
+      18,
+      6,
+      2,
+      0,
+      2,
+      0,
+      0
+    ],
+    [
+      3,
+      34,
+      3,
+      1,
+      2,
+      6,
+      0
+    ],
+    [
+      2,
+      2,
+      68,
+      0,
+      4,
+      17,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      6,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      7,
+      1,
+      77,
+      37,
+      1
+    ],
+    [
+      0,
+      1,
+      10,
+      0,
+      16,
+      653,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8741258741258742,
+  "balanced_accuracy": 0.7498717627898517,
+  "macro_precision": 0.802284266884585,
+  "macro_recall": 0.7498717627898517,
+  "macro_f1": 0.7731280170023069,
+  "macro_auc_ovr": 0.9758098177692888,
+  "confusion_matrix": [
+    [
+      16,
+      7,
+      2,
+      0,
+      3,
+      0,
+      0
+    ],
+    [
+      3,
+      38,
+      1,
+      1,
+      3,
+      2,
+      1
+    ],
+    [
+      2,
+      1,
+      68,
+      0,
+      8,
+      14,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      2,
+      0,
+      0
+    ],
+    [
+      3,
+      2,
+      5,
+      0,
+      79,
+      35,
+      0
+    ],
+    [
+      0,
+      4,
+      12,
+      0,
+      12,
+      653,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8661338661338661,
+  "balanced_accuracy": 0.7236138794623393,
+  "macro_precision": 0.7682921545147152,
+  "macro_recall": 0.7236138794623393,
+  "macro_f1": 0.7422250957098804,
+  "macro_auc_ovr": 0.9767718167255751,
+  "confusion_matrix": [
+    [
+      15,
+      7,
+      5,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      3,
+      34,
+      2,
+      1,
+      2,
+      7,
+      0
+    ],
+    [
+      1,
+      1,
+      67,
+      0,
+      8,
+      16,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      7,
+      1,
+      1,
+      1
+    ],
+    [
+      4,
+      0,
+      8,
+      1,
+      71,
+      37,
+      3
+    ],
+    [
+      0,
+      1,
+      10,
+      0,
+      11,
+      659,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8731268731268731,
+  "balanced_accuracy": 0.7589194636623605,
+  "macro_precision": 0.7814086423700175,
+  "macro_recall": 0.7589194636623605,
+  "macro_f1": 0.7659402494818897,
+  "macro_auc_ovr": 0.977863080049529,
+  "confusion_matrix": [
+    [
+      19,
+      6,
+      3,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      3,
+      39,
+      2,
+      1,
+      1,
+      3,
+      0
+    ],
+    [
+      2,
+      0,
+      72,
+      0,
+      5,
+      14,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      1,
+      1,
+      0
+    ],
+    [
+      6,
+      2,
+      7,
+      0,
+      74,
+      33,
+      2
+    ],
+    [
+      2,
+      6,
+      11,
+      0,
+      11,
+      650,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8911088911088911,
+  "balanced_accuracy": 0.7995987576703065,
+  "macro_precision": 0.8208225791600666,
+  "macro_recall": 0.7995987576703065,
+  "macro_f1": 0.8090938110912482,
+  "macro_auc_ovr": 0.9813317921552942,
+  "confusion_matrix": [
+    [
+      19,
+      5,
+      1,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      4,
+      37,
+      2,
+      1,
+      2,
+      3,
+      0
+    ],
+    [
+      1,
+      2,
+      69,
+      0,
+      8,
+      13,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      9,
+      1,
+      0,
+      0
+    ],
+    [
+      3,
+      0,
+      4,
+      0,
+      84,
+      30,
+      3
+    ],
+    [
+      0,
+      3,
+      5,
+      0,
+      13,
+      660,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8771228771228772,
+  "balanced_accuracy": 0.7211855118019111,
+  "macro_precision": 0.797008475713076,
+  "macro_recall": 0.7211855118019111,
+  "macro_f1": 0.7511275195960909,
+  "macro_auc_ovr": 0.9791496092395205,
+  "confusion_matrix": [
+    [
+      19,
+      4,
+      2,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      2,
+      36,
+      2,
+      0,
+      5,
+      4,
+      0
+    ],
+    [
+      1,
+      1,
+      66,
+      0,
+      7,
+      18,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      5,
+      1,
+      2,
+      1
+    ],
+    [
+      3,
+      0,
+      5,
+      0,
+      80,
+      33,
+      3
+    ],
+    [
+      1,
+      2,
+      4,
+      0,
+      14,
+      659,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8931068931068931,
+  "balanced_accuracy": 0.780701606654152,
+  "macro_precision": 0.8477390987977971,
+  "macro_recall": 0.780701606654152,
+  "macro_f1": 0.8087173918929871,
+  "macro_auc_ovr": 0.9822229852598545,
+  "confusion_matrix": [
+    [
+      18,
+      5,
+      2,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      0,
+      37,
+      3,
+      2,
+      4,
+      3,
+      0
+    ],
+    [
+      1,
+      0,
+      73,
+      0,
+      6,
+      13,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      8,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      3,
+      1,
+      78,
+      40,
+      1
+    ],
+    [
+      0,
+      2,
+      7,
+      0,
+      6,
+      666,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8861138861138861,
+  "balanced_accuracy": 0.7705534352436442,
+  "macro_precision": 0.8218862618282798,
+  "macro_recall": 0.7705534352436442,
+  "macro_f1": 0.7919485283357727,
+  "macro_auc_ovr": 0.9817571465779932,
+  "confusion_matrix": [
+    [
+      18,
+      5,
+      3,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      42,
+      3,
+      0,
+      0,
+      3,
+      0
+    ],
+    [
+      3,
+      1,
+      69,
+      0,
+      5,
+      15,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      7,
+      2,
+      1,
+      0
+    ],
+    [
+      3,
+      1,
+      4,
+      1,
+      75,
+      39,
+      1
+    ],
+    [
+      1,
+      2,
+      4,
+      0,
+      10,
+      662,
+      2
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8851148851148851,
+  "balanced_accuracy": 0.7693714539958373,
+  "macro_precision": 0.8219925511900118,
+  "macro_recall": 0.7693714539958373,
+  "macro_f1": 0.7932511424762716,
+  "macro_auc_ovr": 0.9837277597581424,
+  "confusion_matrix": [
+    [
+      18,
+      5,
+      2,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      3,
+      35,
+      4,
+      1,
+      2,
+      4,
+      0
+    ],
+    [
+      1,
+      1,
+      71,
+      0,
+      9,
+      11,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      7,
+      1,
+      0,
+      0
+    ],
+    [
+      4,
+      1,
+      5,
+      0,
+      82,
+      31,
+      1
+    ],
+    [
+      0,
+      1,
+      11,
+      0,
+      11,
+      658,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      15
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8591408591408591,
+  "balanced_accuracy": 0.7224959046124794,
+  "macro_precision": 0.7672314167468499,
+  "macro_recall": 0.7224959046124794,
+  "macro_f1": 0.7365899721766666,
+  "macro_auc_ovr": 0.974496938050952,
+  "confusion_matrix": [
+    [
+      18,
+      6,
+      0,
+      0,
+      2,
+      2,
+      0
+    ],
+    [
+      3,
+      39,
+      5,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      2,
+      1,
+      71,
+      0,
+      3,
+      16,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      6,
+      1,
+      1,
+      1
+    ],
+    [
+      5,
+      1,
+      8,
+      1,
+      60,
+      46,
+      3
+    ],
+    [
+      0,
+      4,
+      10,
+      0,
+      13,
+      653,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8671328671328671,
+  "balanced_accuracy": 0.698585140627639,
+  "macro_precision": 0.7852336828220591,
+  "macro_recall": 0.698585140627639,
+  "macro_f1": 0.7326627162025277,
+  "macro_auc_ovr": 0.9717516655770849,
+  "confusion_matrix": [
+    [
+      18,
+      7,
+      0,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      0,
+      37,
+      4,
+      0,
+      1,
+      7,
+      0
+    ],
+    [
+      2,
+      1,
+      68,
+      0,
+      7,
+      15,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      5,
+      1,
+      2,
+      1
+    ],
+    [
+      3,
+      1,
+      6,
+      1,
+      67,
+      43,
+      3
+    ],
+    [
+      2,
+      3,
+      5,
+      0,
+      10,
+      661,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8591408591408591,
+  "balanced_accuracy": 0.6993389567402511,
+  "macro_precision": 0.7690660406399524,
+  "macro_recall": 0.6993389567402511,
+  "macro_f1": 0.7233935048737014,
+  "macro_auc_ovr": 0.9745463257947288,
+  "confusion_matrix": [
+    [
+      17,
+      7,
+      0,
+      0,
+      3,
+      1,
+      0
+    ],
+    [
+      3,
+      39,
+      1,
+      0,
+      1,
+      5,
+      0
+    ],
+    [
+      3,
+      2,
+      65,
+      0,
+      5,
+      18,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      5,
+      1,
+      2,
+      1
+    ],
+    [
+      3,
+      1,
+      8,
+      1,
+      64,
+      44,
+      3
+    ],
+    [
+      0,
+      6,
+      10,
+      0,
+      8,
+      657,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8621378621378621,
+  "balanced_accuracy": 0.7101672811474211,
+  "macro_precision": 0.7737104722840431,
+  "macro_recall": 0.7101672811474211,
+  "macro_f1": 0.7267983931131193,
+  "macro_auc_ovr": 0.9727947780625507,
+  "confusion_matrix": [
+    [
+      13,
+      6,
+      2,
+      0,
+      5,
+      2,
+      0
+    ],
+    [
+      0,
+      43,
+      1,
+      0,
+      0,
+      5,
+      0
+    ],
+    [
+      2,
+      0,
+      72,
+      0,
+      3,
+      15,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      5,
+      1,
+      2,
+      0
+    ],
+    [
+      2,
+      1,
+      11,
+      1,
+      65,
+      41,
+      3
+    ],
+    [
+      1,
+      5,
+      10,
+      0,
+      12,
+      651,
+      2
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8511488511488512,
+  "balanced_accuracy": 0.681085253180019,
+  "macro_precision": 0.7429392253179578,
+  "macro_recall": 0.681085253180019,
+  "macro_f1": 0.6983311479352957,
+  "macro_auc_ovr": 0.96926335644947,
+  "confusion_matrix": [
+    [
+      20,
+      5,
+      0,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      5,
+      33,
+      2,
+      0,
+      1,
+      8,
+      0
+    ],
+    [
+      2,
+      1,
+      65,
+      0,
+      8,
+      16,
+      1
+    ],
+    [
+      0,
+      2,
+      0,
+      4,
+      1,
+      2,
+      1
+    ],
+    [
+      5,
+      1,
+      8,
+      1,
+      63,
+      43,
+      3
+    ],
+    [
+      2,
+      5,
+      7,
+      0,
+      13,
+      654,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8591408591408591,
+  "balanced_accuracy": 0.6839327835115043,
+  "macro_precision": 0.7251874467664472,
+  "macro_recall": 0.6839327835115043,
+  "macro_f1": 0.7027231067093506,
+  "macro_auc_ovr": 0.9737290128098737,
+  "confusion_matrix": [
+    [
+      14,
+      6,
+      2,
+      1,
+      1,
+      4,
+      0
+    ],
+    [
+      4,
+      36,
+      6,
+      0,
+      0,
+      2,
+      1
+    ],
+    [
+      2,
+      2,
+      66,
+      0,
+      7,
+      15,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      6,
+      1,
+      2,
+      1
+    ],
+    [
+      3,
+      0,
+      8,
+      0,
+      74,
+      37,
+      2
+    ],
+    [
+      1,
+      2,
+      6,
+      1,
+      18,
+      653,
+      0
+    ],
+    [
+      0,
+      2,
+      1,
+      1,
+      0,
+      1,
+      11
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8781218781218781,
+  "balanced_accuracy": 0.7239248882727739,
+  "macro_precision": 0.7977507129764053,
+  "macro_recall": 0.7239248882727739,
+  "macro_f1": 0.7545894686341256,
+  "macro_auc_ovr": 0.977627781808196,
+  "confusion_matrix": [
+    [
+      17,
+      5,
+      2,
+      1,
+      1,
+      2,
+      0
+    ],
+    [
+      3,
+      42,
+      1,
+      0,
+      0,
+      3,
+      0
+    ],
+    [
+      6,
+      0,
+      67,
+      0,
+      6,
+      13,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      6,
+      1,
+      3,
+      0
+    ],
+    [
+      2,
+      1,
+      4,
+      1,
+      78,
+      38,
+      0
+    ],
+    [
+      1,
+      5,
+      2,
+      0,
+      15,
+      658,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      3,
+      11
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8751248751248751,
+  "balanced_accuracy": 0.7377378877412228,
+  "macro_precision": 0.7941814444224292,
+  "macro_recall": 0.7377378877412228,
+  "macro_f1": 0.7591032044673839,
+  "macro_auc_ovr": 0.9757557360560055,
+  "confusion_matrix": [
+    [
+      20,
+      5,
+      0,
+      0,
+      1,
+      2,
+      0
+    ],
+    [
+      3,
+      41,
+      1,
+      0,
+      0,
+      3,
+      1
+    ],
+    [
+      5,
+      2,
+      63,
+      0,
+      6,
+      16,
+      1
+    ],
+    [
+      0,
+      2,
+      0,
+      6,
+      0,
+      1,
+      1
+    ],
+    [
+      2,
+      1,
+      4,
+      1,
+      77,
+      39,
+      0
+    ],
+    [
+      0,
+      4,
+      7,
+      0,
+      12,
+      657,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8661338661338661,
+  "balanced_accuracy": 0.7197117264250753,
+  "macro_precision": 0.7586382417676442,
+  "macro_recall": 0.7197117264250753,
+  "macro_f1": 0.7363033973623342,
+  "macro_auc_ovr": 0.9719484768027463,
+  "confusion_matrix": [
+    [
+      18,
+      4,
+      3,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      3,
+      39,
+      2,
+      0,
+      2,
+      2,
+      1
+    ],
+    [
+      3,
+      1,
+      63,
+      0,
+      6,
+      18,
+      2
+    ],
+    [
+      0,
+      0,
+      0,
+      6,
+      1,
+      1,
+      2
+    ],
+    [
+      3,
+      0,
+      7,
+      1,
+      76,
+      37,
+      0
+    ],
+    [
+      3,
+      2,
+      8,
+      1,
+      14,
+      653,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8781218781218781,
+  "balanced_accuracy": 0.7414016662309578,
+  "macro_precision": 0.7850237250201565,
+  "macro_recall": 0.7414016662309578,
+  "macro_f1": 0.7580725420182419,
+  "macro_auc_ovr": 0.9754679958731985,
+  "confusion_matrix": [
+    [
+      18,
+      5,
+      2,
+      0,
+      1,
+      2,
+      0
+    ],
+    [
+      4,
+      40,
+      1,
+      0,
+      0,
+      3,
+      1
+    ],
+    [
+      5,
+      0,
+      66,
+      0,
+      7,
+      14,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      6,
+      1,
+      1,
+      1
+    ],
+    [
+      3,
+      0,
+      5,
+      1,
+      80,
+      34,
+      1
+    ],
+    [
+      1,
+      3,
+      10,
+      0,
+      11,
+      656,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8921078921078921,
+  "balanced_accuracy": 0.7710986514015257,
+  "macro_precision": 0.8139333303484424,
+  "macro_recall": 0.7710986514015257,
+  "macro_f1": 0.7845981759686254,
+  "macro_auc_ovr": 0.9782840294834688,
+  "confusion_matrix": [
+    [
+      22,
+      5,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      3,
+      41,
+      2,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      72,
+      0,
+      7,
+      12,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      5,
+      1,
+      2,
+      2
+    ],
+    [
+      3,
+      0,
+      4,
+      1,
+      82,
+      33,
+      1
+    ],
+    [
+      1,
+      2,
+      7,
+      0,
+      14,
+      657,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.9020979020979021,
+  "balanced_accuracy": 0.7917023468068889,
+  "macro_precision": 0.8421926781655428,
+  "macro_recall": 0.7917023468068889,
+  "macro_f1": 0.8136068848112379,
+  "macro_auc_ovr": 0.9813702147060065,
+  "confusion_matrix": [
+    [
+      22,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      5,
+      38,
+      3,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      76,
+      0,
+      4,
+      11,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      7,
+      1,
+      2,
+      0
+    ],
+    [
+      3,
+      0,
+      3,
+      2,
+      84,
+      32,
+      0
+    ],
+    [
+      0,
+      4,
+      4,
+      0,
+      10,
+      663,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8851148851148851,
+  "balanced_accuracy": 0.7324968654507419,
+  "macro_precision": 0.8183380118524256,
+  "macro_recall": 0.7324968654507419,
+  "macro_f1": 0.7690525118985587,
+  "macro_auc_ovr": 0.9791636820011834,
+  "confusion_matrix": [
+    [
+      19,
+      5,
+      2,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      2,
+      42,
+      3,
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      4,
+      0,
+      68,
+      0,
+      8,
+      13,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      6,
+      2,
+      2,
+      0
+    ],
+    [
+      2,
+      0,
+      4,
+      1,
+      83,
+      34,
+      0
+    ],
+    [
+      0,
+      3,
+      6,
+      0,
+      13,
+      658,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      4,
+      10
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8971028971028971,
+  "balanced_accuracy": 0.7480925634225757,
+  "macro_precision": 0.8520945557710263,
+  "macro_recall": 0.7480925634225757,
+  "macro_f1": 0.7934026226527114,
+  "macro_auc_ovr": 0.9811336642112323,
+  "confusion_matrix": [
+    [
+      17,
+      4,
+      4,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      4,
+      40,
+      3,
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      70,
+      0,
+      6,
+      16,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      7,
+      1,
+      2,
+      0
+    ],
+    [
+      2,
+      1,
+      5,
+      0,
+      86,
+      30,
+      0
+    ],
+    [
+      0,
+      2,
+      3,
+      0,
+      8,
+      667,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      3,
+      11
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8871128871128872,
+  "balanced_accuracy": 0.7686775996457983,
+  "macro_precision": 0.8496939716942908,
+  "macro_recall": 0.7686775996457983,
+  "macro_f1": 0.8041977762886561,
+  "macro_auc_ovr": 0.9807667520642135,
+  "confusion_matrix": [
+    [
+      22,
+      4,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      42,
+      3,
+      0,
+      0,
+      2,
+      1
+    ],
+    [
+      1,
+      0,
+      66,
+      0,
+      9,
+      17,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      7,
+      1,
+      2,
+      0
+    ],
+    [
+      2,
+      1,
+      2,
+      1,
+      84,
+      34,
+      0
+    ],
+    [
+      1,
+      3,
+      7,
+      0,
+      14,
+      656,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      3,
+      11
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8641358641358642,
+  "balanced_accuracy": 0.6975994786960441,
+  "macro_precision": 0.7776672275246292,
+  "macro_recall": 0.6975994786960441,
+  "macro_f1": 0.7273091160125792,
+  "macro_auc_ovr": 0.9707909425321867,
+  "confusion_matrix": [
+    [
+      16,
+      7,
+      4,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      43,
+      3,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      2,
+      4,
+      65,
+      0,
+      4,
+      18,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      5,
+      0,
+      3,
+      1
+    ],
+    [
+      7,
+      2,
+      5,
+      1,
+      64,
+      45,
+      0
+    ],
+    [
+      0,
+      3,
+      6,
+      0,
+      12,
+      660,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      0,
+      2,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8561438561438561,
+  "balanced_accuracy": 0.6784173215765122,
+  "macro_precision": 0.7351153674401966,
+  "macro_recall": 0.6784173215765122,
+  "macro_f1": 0.6969941175081775,
+  "macro_auc_ovr": 0.9699516648803959,
+  "confusion_matrix": [
+    [
+      18,
+      7,
+      1,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      2,
+      40,
+      3,
+      0,
+      0,
+      3,
+      1
+    ],
+    [
+      3,
+      2,
+      64,
+      1,
+      3,
+      20,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      4,
+      0,
+      3,
+      1
+    ],
+    [
+      6,
+      2,
+      6,
+      2,
+      60,
+      47,
+      1
+    ],
+    [
+      0,
+      3,
+      9,
+      0,
+      9,
+      659,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8631368631368631,
+  "balanced_accuracy": 0.7163462807929157,
+  "macro_precision": 0.8060775847560014,
+  "macro_recall": 0.7163462807929157,
+  "macro_f1": 0.7511371719222153,
+  "macro_auc_ovr": 0.9716461541287631,
+  "confusion_matrix": [
+    [
+      20,
+      6,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      41,
+      3,
+      0,
+      2,
+      3,
+      0
+    ],
+    [
+      3,
+      1,
+      66,
+      0,
+      5,
+      18,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      6,
+      0,
+      3,
+      0
+    ],
+    [
+      6,
+      1,
+      6,
+      2,
+      62,
+      47,
+      0
+    ],
+    [
+      0,
+      4,
+      6,
+      0,
+      13,
+      658,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      4,
+      11
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8531468531468531,
+  "balanced_accuracy": 0.6727455102303208,
+  "macro_precision": 0.7427169234712524,
+  "macro_recall": 0.6727455102303208,
+  "macro_f1": 0.6990892261341972,
+  "macro_auc_ovr": 0.9709184471569253,
+  "confusion_matrix": [
+    [
+      18,
+      8,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      41,
+      2,
+      0,
+      0,
+      6,
+      0
+    ],
+    [
+      2,
+      2,
+      61,
+      1,
+      7,
+      20,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      4,
+      0,
+      3,
+      1
+    ],
+    [
+      6,
+      2,
+      9,
+      3,
+      56,
+      48,
+      0
+    ],
+    [
+      0,
+      2,
+      6,
+      0,
+      11,
+      662,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8641358641358642,
+  "balanced_accuracy": 0.6907936158080439,
+  "macro_precision": 0.7534585930049165,
+  "macro_recall": 0.6907936158080439,
+  "macro_f1": 0.7134843757801592,
+  "macro_auc_ovr": 0.9725408155574043,
+  "confusion_matrix": [
+    [
+      16,
+      8,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      43,
+      2,
+      0,
+      1,
+      3,
+      0
+    ],
+    [
+      4,
+      2,
+      62,
+      1,
+      6,
+      18,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      5,
+      0,
+      3,
+      1
+    ],
+    [
+      6,
+      2,
+      6,
+      2,
+      61,
+      47,
+      0
+    ],
+    [
+      0,
+      2,
+      5,
+      0,
+      7,
+      666,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8741258741258742,
+  "balanced_accuracy": 0.7397792288518568,
+  "macro_precision": 0.7593201051039392,
+  "macro_recall": 0.7397792288518568,
+  "macro_f1": 0.7445510099379511,
+  "macro_auc_ovr": 0.9775020531973967,
+  "confusion_matrix": [
+    [
+      20,
+      5,
+      2,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      2,
+      40,
+      2,
+      2,
+      0,
+      2,
+      1
+    ],
+    [
+      2,
+      4,
+      71,
+      0,
+      4,
+      12,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      6,
+      0,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      8,
+      0,
+      71,
+      36,
+      3
+    ],
+    [
+      0,
+      3,
+      8,
+      0,
+      14,
+      655,
+      1
+    ],
+    [
+      0,
+      2,
+      1,
+      0,
+      0,
+      1,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8701298701298701,
+  "balanced_accuracy": 0.7242911530514885,
+  "macro_precision": 0.7659489076807615,
+  "macro_recall": 0.7242911530514885,
+  "macro_f1": 0.742037537909874,
+  "macro_auc_ovr": 0.9745641078830926,
+  "confusion_matrix": [
+    [
+      16,
+      5,
+      2,
+      0,
+      2,
+      3,
+      0
+    ],
+    [
+      2,
+      39,
+      2,
+      1,
+      0,
+      4,
+      1
+    ],
+    [
+      3,
+      1,
+      72,
+      0,
+      5,
+      11,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      0,
+      2,
+      0
+    ],
+    [
+      4,
+      1,
+      7,
+      0,
+      72,
+      40,
+      0
+    ],
+    [
+      1,
+      5,
+      5,
+      1,
+      13,
+      654,
+      2
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      3,
+      11
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8831168831168831,
+  "balanced_accuracy": 0.7522280175189506,
+  "macro_precision": 0.7852986374454519,
+  "macro_recall": 0.7522280175189506,
+  "macro_f1": 0.7642966223632432,
+  "macro_auc_ovr": 0.9736484273276427,
+  "confusion_matrix": [
+    [
+      17,
+      6,
+      2,
+      0,
+      1,
+      2,
+      0
+    ],
+    [
+      5,
+      40,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    [
+      2,
+      3,
+      70,
+      0,
+      3,
+      14,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      0,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      6,
+      0,
+      75,
+      41,
+      1
+    ],
+    [
+      1,
+      2,
+      5,
+      2,
+      8,
+      662,
+      1
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8651348651348651,
+  "balanced_accuracy": 0.7164954610318112,
+  "macro_precision": 0.7269698755641073,
+  "macro_recall": 0.7164954610318112,
+  "macro_f1": 0.7181795183198181,
+  "macro_auc_ovr": 0.9737111342384958,
+  "confusion_matrix": [
+    [
+      17,
+      6,
+      2,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      3,
+      40,
+      2,
+      0,
+      2,
+      1,
+      1
+    ],
+    [
+      2,
+      1,
+      65,
+      2,
+      6,
+      16,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      5,
+      1,
+      1,
+      2
+    ],
+    [
+      3,
+      1,
+      5,
+      0,
+      78,
+      35,
+      2
+    ],
+    [
+      2,
+      3,
+      8,
+      1,
+      18,
+      648,
+      1
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8821178821178821,
+  "balanced_accuracy": 0.7302629941722725,
+  "macro_precision": 0.7837765028274595,
+  "macro_recall": 0.7302629941722725,
+  "macro_f1": 0.7522826606346922,
+  "macro_auc_ovr": 0.9775835458666704,
+  "confusion_matrix": [
+    [
+      16,
+      6,
+      2,
+      0,
+      1,
+      3,
+      0
+    ],
+    [
+      5,
+      38,
+      3,
+      0,
+      0,
+      2,
+      1
+    ],
+    [
+      2,
+      1,
+      75,
+      0,
+      5,
+      10,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      6,
+      0,
+      2,
+      1
+    ],
+    [
+      3,
+      0,
+      7,
+      0,
+      80,
+      33,
+      1
+    ],
+    [
+      2,
+      1,
+      8,
+      1,
+      12,
+      656,
+      1
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      2,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8931068931068931,
+  "balanced_accuracy": 0.7712116336211498,
+  "macro_precision": 0.8456627638658389,
+  "macro_recall": 0.7712116336211498,
+  "macro_f1": 0.8049499886519393,
+  "macro_auc_ovr": 0.9808438450679845,
+  "confusion_matrix": [
+    [
+      19,
+      5,
+      1,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      3,
+      39,
+      3,
+      1,
+      0,
+      2,
+      1
+    ],
+    [
+      1,
+      0,
+      71,
+      0,
+      5,
+      16,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      0,
+      2,
+      0
+    ],
+    [
+      1,
+      1,
+      4,
+      0,
+      84,
+      34,
+      0
+    ],
+    [
+      2,
+      2,
+      5,
+      0,
+      11,
+      661,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8861138861138861,
+  "balanced_accuracy": 0.7594096758864329,
+  "macro_precision": 0.8078559817912783,
+  "macro_recall": 0.7594096758864329,
+  "macro_f1": 0.7772655624881079,
+  "macro_auc_ovr": 0.9789260655569901,
+  "confusion_matrix": [
+    [
+      22,
+      5,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      3,
+      40,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      5,
+      0,
+      68,
+      0,
+      7,
+      13,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      6,
+      0,
+      2,
+      0
+    ],
+    [
+      3,
+      0,
+      6,
+      0,
+      83,
+      31,
+      1
+    ],
+    [
+      2,
+      4,
+      8,
+      0,
+      11,
+      656,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8881118881118881,
+  "balanced_accuracy": 0.7641070529188145,
+  "macro_precision": 0.8097170246144539,
+  "macro_recall": 0.7641070529188145,
+  "macro_f1": 0.7848250899953173,
+  "macro_auc_ovr": 0.9783707250209351,
+  "confusion_matrix": [
+    [
+      16,
+      7,
+      2,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      3,
+      40,
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    [
+      3,
+      0,
+      70,
+      0,
+      6,
+      14,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      8,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      4,
+      0,
+      86,
+      33,
+      0
+    ],
+    [
+      0,
+      2,
+      9,
+      0,
+      13,
+      657,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      2,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8951048951048951,
+  "balanced_accuracy": 0.756338777415999,
+  "macro_precision": 0.819701855496757,
+  "macro_recall": 0.756338777415999,
+  "macro_f1": 0.784539911566419,
+  "macro_auc_ovr": 0.9811312629823031,
+  "confusion_matrix": [
+    [
+      17,
+      8,
+      3,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      3,
+      39,
+      4,
+      1,
+      0,
+      1,
+      1
+    ],
+    [
+      2,
+      1,
+      72,
+      0,
+      5,
+      13,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      0,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      4,
+      0,
+      86,
+      32,
+      1
+    ],
+    [
+      1,
+      1,
+      7,
+      0,
+      9,
+      663,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8951048951048951,
+  "balanced_accuracy": 0.7771381516938166,
+  "macro_precision": 0.8352632518602048,
+  "macro_recall": 0.7771381516938166,
+  "macro_f1": 0.8023416345913658,
+  "macro_auc_ovr": 0.9809647753887782,
+  "confusion_matrix": [
+    [
+      22,
+      2,
+      2,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      42,
+      4,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      4,
+      0,
+      70,
+      0,
+      8,
+      11,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      6,
+      1,
+      2,
+      0
+    ],
+    [
+      1,
+      1,
+      9,
+      0,
+      82,
+      31,
+      0
+    ],
+    [
+      2,
+      2,
+      7,
+      0,
+      9,
+      661,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8461538461538461,
+  "balanced_accuracy": 0.6833570159422505,
+  "macro_precision": 0.7822625723197744,
+  "macro_recall": 0.6833570159422505,
+  "macro_f1": 0.710026108340692,
+  "macro_auc_ovr": 0.9683959942619628,
+  "confusion_matrix": [
+    [
+      17,
+      8,
+      2,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      2,
+      40,
+      3,
+      0,
+      1,
+      2,
+      1
+    ],
+    [
+      1,
+      4,
+      65,
+      0,
+      5,
+      18,
+      0
+    ],
+    [
+      0,
+      2,
+      1,
+      4,
+      0,
+      2,
+      1
+    ],
+    [
+      6,
+      3,
+      10,
+      0,
+      62,
+      43,
+      0
+    ],
+    [
+      0,
+      4,
+      13,
+      0,
+      18,
+      646,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8531468531468531,
+  "balanced_accuracy": 0.6775932430870396,
+  "macro_precision": 0.7503112195610574,
+  "macro_recall": 0.6775932430870396,
+  "macro_f1": 0.6941576499000094,
+  "macro_auc_ovr": 0.9668067904675836,
+  "confusion_matrix": [
+    [
+      17,
+      7,
+      0,
+      1,
+      1,
+      2,
+      0
+    ],
+    [
+      1,
+      44,
+      3,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      4,
+      62,
+      0,
+      6,
+      20,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      3,
+      0,
+      2,
+      2
+    ],
+    [
+      6,
+      3,
+      7,
+      0,
+      62,
+      45,
+      1
+    ],
+    [
+      0,
+      4,
+      9,
+      0,
+      15,
+      653,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8531468531468531,
+  "balanced_accuracy": 0.7028651951858516,
+  "macro_precision": 0.7632866567841938,
+  "macro_recall": 0.7028651951858516,
+  "macro_f1": 0.7224440526054094,
+  "macro_auc_ovr": 0.9682723801154738,
+  "confusion_matrix": [
+    [
+      17,
+      8,
+      1,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      2,
+      43,
+      3,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      2,
+      3,
+      64,
+      0,
+      5,
+      19,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      5,
+      0,
+      2,
+      1
+    ],
+    [
+      6,
+      3,
+      9,
+      1,
+      59,
+      46,
+      0
+    ],
+    [
+      0,
+      7,
+      6,
+      1,
+      14,
+      653,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8561438561438561,
+  "balanced_accuracy": 0.7008418762661279,
+  "macro_precision": 0.776951171658182,
+  "macro_recall": 0.7008418762661279,
+  "macro_f1": 0.7255503163075551,
+  "macro_auc_ovr": 0.9736903606439525,
+  "confusion_matrix": [
+    [
+      17,
+      9,
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      2,
+      43,
+      3,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      3,
+      62,
+      0,
+      3,
+      23,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      5,
+      0,
+      2,
+      1
+    ],
+    [
+      5,
+      4,
+      7,
+      0,
+      59,
+      49,
+      0
+    ],
+    [
+      0,
+      5,
+      8,
+      1,
+      9,
+      658,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8631368631368631,
+  "balanced_accuracy": 0.6833389730361784,
+  "macro_precision": 0.8090405287320175,
+  "macro_recall": 0.6833389730361784,
+  "macro_f1": 0.7108179855012201,
+  "macro_auc_ovr": 0.9718440510619747,
+  "confusion_matrix": [
+    [
+      17,
+      8,
+      1,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      1,
+      45,
+      2,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      2,
+      4,
+      62,
+      0,
+      6,
+      19,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      3,
+      0,
+      3,
+      2
+    ],
+    [
+      7,
+      3,
+      6,
+      0,
+      63,
+      45,
+      0
+    ],
+    [
+      0,
+      5,
+      6,
+      0,
+      9,
+      661,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8731268731268731,
+  "balanced_accuracy": 0.7444191351198918,
+  "macro_precision": 0.7757456300728496,
+  "macro_recall": 0.7444191351198918,
+  "macro_f1": 0.7567270293897569,
+  "macro_auc_ovr": 0.9696805076434257,
+  "confusion_matrix": [
+    [
+      18,
+      4,
+      3,
+      0,
+      2,
+      0,
+      1
+    ],
+    [
+      2,
+      40,
+      2,
+      0,
+      1,
+      4,
+      0
+    ],
+    [
+      3,
+      0,
+      70,
+      0,
+      7,
+      12,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      0,
+      1,
+      1
+    ],
+    [
+      3,
+      2,
+      7,
+      1,
+      73,
+      37,
+      1
+    ],
+    [
+      3,
+      2,
+      6,
+      0,
+      14,
+      654,
+      2
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8641358641358642,
+  "balanced_accuracy": 0.7096353882912105,
+  "macro_precision": 0.7906725829598652,
+  "macro_recall": 0.7096353882912105,
+  "macro_f1": 0.740204012017388,
+  "macro_auc_ovr": 0.9727766551900352,
+  "confusion_matrix": [
+    [
+      17,
+      3,
+      4,
+      0,
+      2,
+      2,
+      0
+    ],
+    [
+      2,
+      38,
+      2,
+      0,
+      0,
+      6,
+      1
+    ],
+    [
+      4,
+      0,
+      65,
+      0,
+      7,
+      16,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      6,
+      0,
+      2,
+      1
+    ],
+    [
+      2,
+      2,
+      11,
+      0,
+      71,
+      37,
+      1
+    ],
+    [
+      1,
+      1,
+      10,
+      0,
+      11,
+      656,
+      2
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      2,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8721278721278721,
+  "balanced_accuracy": 0.7587220913254155,
+  "macro_precision": 0.8005697599146809,
+  "macro_recall": 0.7587220913254155,
+  "macro_f1": 0.7757852539080291,
+  "macro_auc_ovr": 0.972454526829271,
+  "confusion_matrix": [
+    [
+      23,
+      4,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      3,
+      38,
+      1,
+      0,
+      1,
+      6,
+      0
+    ],
+    [
+      2,
+      1,
+      68,
+      0,
+      8,
+      13,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      1,
+      1,
+      0
+    ],
+    [
+      5,
+      0,
+      3,
+      1,
+      71,
+      43,
+      1
+    ],
+    [
+      1,
+      1,
+      8,
+      1,
+      16,
+      654,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      1,
+      1,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8791208791208791,
+  "balanced_accuracy": 0.7495968052662914,
+  "macro_precision": 0.7860474899290738,
+  "macro_recall": 0.7495968052662914,
+  "macro_f1": 0.7589495437454582,
+  "macro_auc_ovr": 0.9698837438291381,
+  "confusion_matrix": [
+    [
+      21,
+      6,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      3,
+      43,
+      1,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      3,
+      1,
+      69,
+      1,
+      6,
+      12,
+      1
+    ],
+    [
+      1,
+      2,
+      0,
+      5,
+      0,
+      1,
+      1
+    ],
+    [
+      2,
+      0,
+      10,
+      0,
+      75,
+      35,
+      2
+    ],
+    [
+      2,
+      4,
+      3,
+      0,
+      18,
+      654,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8611388611388612,
+  "balanced_accuracy": 0.713218835109106,
+  "macro_precision": 0.746936534665355,
+  "macro_recall": 0.713218835109106,
+  "macro_f1": 0.7254272057177437,
+  "macro_auc_ovr": 0.9736205427709859,
+  "confusion_matrix": [
+    [
+      18,
+      6,
+      0,
+      0,
+      2,
+      2,
+      0
+    ],
+    [
+      4,
+      39,
+      1,
+      0,
+      0,
+      5,
+      0
+    ],
+    [
+      2,
+      0,
+      66,
+      1,
+      7,
+      16,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      6,
+      0,
+      2,
+      1
+    ],
+    [
+      4,
+      2,
+      8,
+      0,
+      66,
+      41,
+      3
+    ],
+    [
+      1,
+      3,
+      6,
+      1,
+      14,
+      655,
+      1
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      1,
+      1,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.9010989010989011,
+  "balanced_accuracy": 0.8024614342377158,
+  "macro_precision": 0.866863797916045,
+  "macro_recall": 0.8024614342377158,
+  "macro_f1": 0.8310255001038301,
+  "macro_auc_ovr": 0.9837884561796949,
+  "confusion_matrix": [
+    [
+      20,
+      4,
+      2,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      2,
+      39,
+      3,
+      0,
+      0,
+      5,
+      0
+    ],
+    [
+      1,
+      1,
+      71,
+      0,
+      6,
+      14,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      8,
+      0,
+      1,
+      1
+    ],
+    [
+      3,
+      0,
+      2,
+      0,
+      86,
+      32,
+      1
+    ],
+    [
+      0,
+      2,
+      6,
+      0,
+      8,
+      664,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8881118881118881,
+  "balanced_accuracy": 0.7452523524483181,
+  "macro_precision": 0.8358354408146941,
+  "macro_recall": 0.7452523524483181,
+  "macro_f1": 0.7762901639201515,
+  "macro_auc_ovr": 0.9826146456945173,
+  "confusion_matrix": [
+    [
+      21,
+      5,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      2,
+      40,
+      3,
+      0,
+      1,
+      2,
+      1
+    ],
+    [
+      2,
+      1,
+      69,
+      0,
+      8,
+      13,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      5,
+      1,
+      1,
+      1
+    ],
+    [
+      4,
+      0,
+      6,
+      0,
+      77,
+      36,
+      1
+    ],
+    [
+      0,
+      3,
+      7,
+      0,
+      7,
+      664,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8841158841158842,
+  "balanced_accuracy": 0.7798341644256314,
+  "macro_precision": 0.8226765671106698,
+  "macro_recall": 0.7798341644256314,
+  "macro_f1": 0.7985431207775238,
+  "macro_auc_ovr": 0.9804966664434199,
+  "confusion_matrix": [
+    [
+      19,
+      5,
+      1,
+      0,
+      1,
+      2,
+      0
+    ],
+    [
+      3,
+      40,
+      0,
+      0,
+      3,
+      2,
+      1
+    ],
+    [
+      2,
+      2,
+      68,
+      0,
+      8,
+      13,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      7,
+      2,
+      1,
+      0
+    ],
+    [
+      3,
+      1,
+      6,
+      1,
+      78,
+      34,
+      1
+    ],
+    [
+      0,
+      2,
+      5,
+      0,
+      16,
+      658,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      15
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8841158841158842,
+  "balanced_accuracy": 0.7742612282737654,
+  "macro_precision": 0.8151481770361303,
+  "macro_recall": 0.7742612282737654,
+  "macro_f1": 0.7914150258320342,
+  "macro_auc_ovr": 0.9807508367161868,
+  "confusion_matrix": [
+    [
+      18,
+      6,
+      1,
+      0,
+      1,
+      2,
+      0
+    ],
+    [
+      3,
+      40,
+      2,
+      1,
+      0,
+      3,
+      0
+    ],
+    [
+      1,
+      0,
+      67,
+      0,
+      9,
+      16,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      8,
+      1,
+      0,
+      0
+    ],
+    [
+      4,
+      1,
+      4,
+      1,
+      73,
+      40,
+      1
+    ],
+    [
+      0,
+      3,
+      6,
+      0,
+      6,
+      665,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8901098901098901,
+  "balanced_accuracy": 0.8003170403750938,
+  "macro_precision": 0.8342115074151073,
+  "macro_recall": 0.8003170403750938,
+  "macro_f1": 0.8140241438993249,
+  "macro_auc_ovr": 0.9834974582655652,
+  "confusion_matrix": [
+    [
+      24,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      4,
+      38,
+      2,
+      1,
+      1,
+      3,
+      0
+    ],
+    [
+      2,
+      1,
+      66,
+      0,
+      10,
+      14,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      1,
+      1,
+      0
+    ],
+    [
+      3,
+      0,
+      13,
+      0,
+      81,
+      27,
+      0
+    ],
+    [
+      0,
+      2,
+      7,
+      0,
+      11,
+      660,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      15
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8661338661338661,
+  "balanced_accuracy": 0.6795434029597546,
+  "macro_precision": 0.7705937747279465,
+  "macro_recall": 0.6795434029597546,
+  "macro_f1": 0.7066770905559052,
+  "macro_auc_ovr": 0.9754516545439847,
+  "confusion_matrix": [
+    [
+      16,
+      8,
+      1,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      2,
+      40,
+      3,
+      0,
+      1,
+      3,
+      0
+    ],
+    [
+      2,
+      1,
+      69,
+      0,
+      3,
+      17,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      3,
+      1,
+      4,
+      1
+    ],
+    [
+      3,
+      0,
+      9,
+      1,
+      68,
+      41,
+      2
+    ],
+    [
+      0,
+      4,
+      9,
+      0,
+      10,
+      658,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8641358641358642,
+  "balanced_accuracy": 0.6763755920565916,
+  "macro_precision": 0.7506094454247604,
+  "macro_recall": 0.6763755920565916,
+  "macro_f1": 0.6986947040858201,
+  "macro_auc_ovr": 0.974215970880843,
+  "confusion_matrix": [
+    [
+      13,
+      10,
+      1,
+      0,
+      1,
+      3,
+      0
+    ],
+    [
+      2,
+      39,
+      2,
+      0,
+      1,
+      5,
+      0
+    ],
+    [
+      2,
+      1,
+      68,
+      0,
+      5,
+      15,
+      2
+    ],
+    [
+      0,
+      1,
+      0,
+      4,
+      1,
+      2,
+      2
+    ],
+    [
+      3,
+      2,
+      9,
+      1,
+      70,
+      37,
+      2
+    ],
+    [
+      1,
+      2,
+      8,
+      0,
+      12,
+      658,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8651348651348651,
+  "balanced_accuracy": 0.7046006078795227,
+  "macro_precision": 0.7734317565145244,
+  "macro_recall": 0.7046006078795227,
+  "macro_f1": 0.72759754137064,
+  "macro_auc_ovr": 0.9749266643349644,
+  "confusion_matrix": [
+    [
+      18,
+      7,
+      0,
+      1,
+      0,
+      2,
+      0
+    ],
+    [
+      3,
+      40,
+      2,
+      0,
+      0,
+      4,
+      0
+    ],
+    [
+      2,
+      2,
+      63,
+      0,
+      5,
+      21,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      5,
+      0,
+      3,
+      1
+    ],
+    [
+      6,
+      1,
+      4,
+      1,
+      63,
+      47,
+      2
+    ],
+    [
+      1,
+      5,
+      5,
+      0,
+      6,
+      664,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8731268731268731,
+  "balanced_accuracy": 0.6888275156181963,
+  "macro_precision": 0.797049930250256,
+  "macro_recall": 0.6888275156181963,
+  "macro_f1": 0.7231320089029712,
+  "macro_auc_ovr": 0.9723921979232911,
+  "confusion_matrix": [
+    [
+      17,
+      7,
+      0,
+      0,
+      2,
+      2,
+      0
+    ],
+    [
+      2,
+      38,
+      2,
+      1,
+      1,
+      5,
+      0
+    ],
+    [
+      2,
+      0,
+      68,
+      0,
+      4,
+      19,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      3,
+      1,
+      4,
+      1
+    ],
+    [
+      2,
+      2,
+      2,
+      0,
+      69,
+      47,
+      2
+    ],
+    [
+      1,
+      2,
+      6,
+      0,
+      6,
+      665,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8591408591408591,
+  "balanced_accuracy": 0.6862800288714118,
+  "macro_precision": 0.728163758781603,
+  "macro_recall": 0.6862800288714118,
+  "macro_f1": 0.6989103121972031,
+  "macro_auc_ovr": 0.9728376280247965,
+  "confusion_matrix": [
+    [
+      18,
+      6,
+      1,
+      1,
+      0,
+      2,
+      0
+    ],
+    [
+      2,
+      37,
+      3,
+      1,
+      0,
+      6,
+      0
+    ],
+    [
+      3,
+      0,
+      69,
+      0,
+      4,
+      16,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      4,
+      0,
+      4,
+      1
+    ],
+    [
+      7,
+      1,
+      8,
+      1,
+      60,
+      44,
+      3
+    ],
+    [
+      1,
+      4,
+      6,
+      0,
+      11,
+      659,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8721278721278721,
+  "balanced_accuracy": 0.7410129324065647,
+  "macro_precision": 0.7908361775603003,
+  "macro_recall": 0.7410129324065647,
+  "macro_f1": 0.7611307038280203,
+  "macro_auc_ovr": 0.9773874435404836,
+  "confusion_matrix": [
+    [
+      19,
+      6,
+      3,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      37,
+      4,
+      1,
+      1,
+      4,
+      0
+    ],
+    [
+      2,
+      3,
+      67,
+      0,
+      7,
+      14,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      7,
+      0,
+      1,
+      0
+    ],
+    [
+      6,
+      2,
+      5,
+      0,
+      68,
+      40,
+      3
+    ],
+    [
+      0,
+      1,
+      8,
+      0,
+      10,
+      662,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      2,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8731268731268731,
+  "balanced_accuracy": 0.7426787473348219,
+  "macro_precision": 0.7938063350744455,
+  "macro_recall": 0.7426787473348219,
+  "macro_f1": 0.7650933285672536,
+  "macro_auc_ovr": 0.9753270298225704,
+  "confusion_matrix": [
+    [
+      17,
+      6,
+      4,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      2,
+      40,
+      2,
+      0,
+      2,
+      3,
+      0
+    ],
+    [
+      3,
+      2,
+      67,
+      0,
+      6,
+      15,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      6,
+      1,
+      2,
+      0
+    ],
+    [
+      3,
+      2,
+      3,
+      2,
+      77,
+      36,
+      1
+    ],
+    [
+      0,
+      3,
+      7,
+      0,
+      18,
+      653,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8681318681318682,
+  "balanced_accuracy": 0.7235010301650046,
+  "macro_precision": 0.7739171361613952,
+  "macro_recall": 0.7235010301650046,
+  "macro_f1": 0.7456821110400175,
+  "macro_auc_ovr": 0.9746413990475576,
+  "confusion_matrix": [
+    [
+      15,
+      6,
+      3,
+      1,
+      2,
+      1,
+      0
+    ],
+    [
+      3,
+      36,
+      4,
+      1,
+      1,
+      4,
+      0
+    ],
+    [
+      1,
+      1,
+      71,
+      0,
+      8,
+      12,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      6,
+      1,
+      2,
+      0
+    ],
+    [
+      4,
+      3,
+      8,
+      0,
+      74,
+      34,
+      1
+    ],
+    [
+      1,
+      3,
+      10,
+      0,
+      14,
+      653,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8711288711288712,
+  "balanced_accuracy": 0.7505462829887228,
+  "macro_precision": 0.7555975189929812,
+  "macro_recall": 0.7505462829887228,
+  "macro_f1": 0.7507543460887988,
+  "macro_auc_ovr": 0.9754214077227171,
+  "confusion_matrix": [
+    [
+      18,
+      6,
+      2,
+      0,
+      2,
+      0,
+      0
+    ],
+    [
+      4,
+      38,
+      1,
+      0,
+      2,
+      4,
+      0
+    ],
+    [
+      2,
+      1,
+      68,
+      0,
+      8,
+      14,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      7,
+      2,
+      1,
+      0
+    ],
+    [
+      6,
+      1,
+      6,
+      3,
+      70,
+      35,
+      3
+    ],
+    [
+      0,
+      4,
+      5,
+      0,
+      14,
+      657,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8771228771228772,
+  "balanced_accuracy": 0.7575395783884515,
+  "macro_precision": 0.8020672872119098,
+  "macro_recall": 0.7575395783884515,
+  "macro_f1": 0.7777831176470152,
+  "macro_auc_ovr": 0.9774243863069573,
+  "confusion_matrix": [
+    [
+      17,
+      6,
+      3,
+      0,
+      2,
+      0,
+      0
+    ],
+    [
+      2,
+      38,
+      3,
+      1,
+      1,
+      4,
+      0
+    ],
+    [
+      2,
+      1,
+      67,
+      0,
+      7,
+      16,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      8,
+      0,
+      2,
+      0
+    ],
+    [
+      4,
+      1,
+      4,
+      0,
+      77,
+      36,
+      2
+    ],
+    [
+      1,
+      2,
+      8,
+      0,
+      11,
+      658,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8991008991008991,
+  "balanced_accuracy": 0.8071061792223334,
+  "macro_precision": 0.8516379848323796,
+  "macro_recall": 0.8071061792223334,
+  "macro_f1": 0.8268386417528396,
+  "macro_auc_ovr": 0.982826503928578,
+  "confusion_matrix": [
+    [
+      19,
+      5,
+      1,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      3,
+      38,
+      2,
+      0,
+      2,
+      3,
+      1
+    ],
+    [
+      2,
+      1,
+      69,
+      0,
+      7,
+      14,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      8,
+      1,
+      1,
+      0
+    ],
+    [
+      4,
+      0,
+      0,
+      0,
+      93,
+      26,
+      1
+    ],
+    [
+      0,
+      3,
+      8,
+      0,
+      12,
+      658,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      15
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8881118881118881,
+  "balanced_accuracy": 0.7571373952451522,
+  "macro_precision": 0.8153173740554204,
+  "macro_recall": 0.7571373952451522,
+  "macro_f1": 0.7814563822992472,
+  "macro_auc_ovr": 0.9818929759704504,
+  "confusion_matrix": [
+    [
+      21,
+      4,
+      2,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      42,
+      2,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      67,
+      0,
+      6,
+      18,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      6,
+      2,
+      1,
+      0
+    ],
+    [
+      4,
+      0,
+      8,
+      0,
+      81,
+      28,
+      3
+    ],
+    [
+      0,
+      2,
+      10,
+      0,
+      9,
+      660,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      2,
+      12
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8871128871128872,
+  "balanced_accuracy": 0.783660565568114,
+  "macro_precision": 0.8117981430668167,
+  "macro_recall": 0.783660565568114,
+  "macro_f1": 0.7956184961018266,
+  "macro_auc_ovr": 0.9807039116602062,
+  "confusion_matrix": [
+    [
+      20,
+      4,
+      2,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      2,
+      37,
+      2,
+      1,
+      2,
+      4,
+      1
+    ],
+    [
+      2,
+      1,
+      70,
+      0,
+      5,
+      15,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      7,
+      1,
+      1,
+      0
+    ],
+    [
+      2,
+      0,
+      7,
+      1,
+      82,
+      31,
+      1
+    ],
+    [
+      0,
+      4,
+      9,
+      0,
+      10,
+      657,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      15
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8891108891108891,
+  "balanced_accuracy": 0.7831269861524667,
+  "macro_precision": 0.8195111230936403,
+  "macro_recall": 0.7831269861524667,
+  "macro_f1": 0.7995608651885387,
+  "macro_auc_ovr": 0.9791213144677046,
+  "confusion_matrix": [
+    [
+      20,
+      4,
+      3,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      2,
+      38,
+      4,
+      1,
+      1,
+      3,
+      0
+    ],
+    [
+      2,
+      1,
+      66,
+      0,
+      7,
+      17,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      7,
+      1,
+      0,
+      0
+    ],
+    [
+      3,
+      1,
+      2,
+      0,
+      93,
+      24,
+      1
+    ],
+    [
+      0,
+      4,
+      10,
+      0,
+      14,
+      652,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8971028971028971,
+  "balanced_accuracy": 0.7759880372701671,
+  "macro_precision": 0.817156791069423,
+  "macro_recall": 0.7759880372701671,
+  "macro_f1": 0.7941745154979041,
+  "macro_auc_ovr": 0.9852835036146492,
+  "confusion_matrix": [
+    [
+      21,
+      3,
+      2,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      3,
+      37,
+      3,
+      2,
+      3,
+      1,
+      0
+    ],
+    [
+      2,
+      0,
+      74,
+      0,
+      4,
+      13,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      6,
+      1,
+      1,
+      1
+    ],
+    [
+      3,
+      1,
+      7,
+      0,
+      85,
+      27,
+      1
+    ],
+    [
+      0,
+      2,
+      8,
+      0,
+      10,
+      661,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8601398601398601,
+  "balanced_accuracy": 0.709891536447706,
+  "macro_precision": 0.766992179546335,
+  "macro_recall": 0.709891536447706,
+  "macro_f1": 0.7310446163566533,
+  "macro_auc_ovr": 0.9747417392866998,
+  "confusion_matrix": [
+    [
+      19,
+      7,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      39,
+      2,
+      0,
+      1,
+      5,
+      0
+    ],
+    [
+      2,
+      2,
+      64,
+      0,
+      6,
+      19,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      5,
+      0,
+      3,
+      0
+    ],
+    [
+      4,
+      2,
+      7,
+      1,
+      66,
+      42,
+      2
+    ],
+    [
+      2,
+      5,
+      7,
+      0,
+      12,
+      655,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0,
+      1,
+      13
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8601398601398601,
+  "balanced_accuracy": 0.6618351675918748,
+  "macro_precision": 0.7180773881225635,
+  "macro_recall": 0.6618351675918748,
+  "macro_f1": 0.6781569546438374,
+  "macro_auc_ovr": 0.9696770554795732,
+  "confusion_matrix": [
+    [
+      18,
+      8,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      2,
+      38,
+      4,
+      0,
+      1,
+      4,
+      0
+    ],
+    [
+      2,
+      0,
+      70,
+      0,
+      4,
+      16,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      3,
+      1,
+      3,
+      2
+    ],
+    [
+      5,
+      2,
+      10,
+      2,
+      63,
+      39,
+      3
+    ],
+    [
+      2,
+      2,
+      9,
+      0,
+      10,
+      658,
+      0
+    ],
+    [
+      0,
+      1,
+      2,
+      0,
+      1,
+      1,
+      11
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8651348651348651,
+  "balanced_accuracy": 0.6927380410334214,
+  "macro_precision": 0.76510611993732,
+  "macro_recall": 0.6927380410334214,
+  "macro_f1": 0.7139723109647921,
+  "macro_auc_ovr": 0.9720320711861209,
+  "confusion_matrix": [
+    [
+      16,
+      7,
+      2,
+      0,
+      0,
+      3,
+      0
+    ],
+    [
+      3,
+      38,
+      7,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      3,
+      0,
+      66,
+      0,
+      5,
+      19,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      4,
+      0,
+      3,
+      1
+    ],
+    [
+      6,
+      3,
+      6,
+      1,
+      68,
+      38,
+      2
+    ],
+    [
+      1,
+      5,
+      8,
+      0,
+      7,
+      660,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8631368631368631,
+  "balanced_accuracy": 0.6806984717596413,
+  "macro_precision": 0.7556433325710435,
+  "macro_recall": 0.6806984717596413,
+  "macro_f1": 0.6999882647405745,
+  "macro_auc_ovr": 0.9728061186667214,
+  "confusion_matrix": [
+    [
+      18,
+      6,
+      0,
+      0,
+      2,
+      2,
+      0
+    ],
+    [
+      2,
+      38,
+      2,
+      0,
+      0,
+      7,
+      0
+    ],
+    [
+      2,
+      0,
+      69,
+      0,
+      3,
+      18,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      3,
+      1,
+      4,
+      1
+    ],
+    [
+      3,
+      0,
+      11,
+      2,
+      56,
+      49,
+      3
+    ],
+    [
+      1,
+      4,
+      6,
+      0,
+      3,
+      666,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      14
+    ]
+  ]
+}
+{
+  "classes": [
+    "akiec",
+    "bcc",
+    "bkl",
+    "df",
+    "mel",
+    "nv",
+    "vasc"
+  ],
+  "n": 1001,
+  "accuracy": 0.8441558441558441,
+  "balanced_accuracy": 0.670066098974558,
+  "macro_precision": 0.7458222692262794,
+  "macro_recall": 0.670066098974558,
+  "macro_f1": 0.6935247027963473,
+  "macro_auc_ovr": 0.9706778871981695,
+  "confusion_matrix": [
+    [
+      19,
+      6,
+      1,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      4,
+      34,
+      2,
+      0,
+      2,
+      7,
+      0
+    ],
+    [
+      4,
+      0,
+      63,
+      0,
+      6,
+      20,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      4,
+      1,
+      3,
+      1
+    ],
+    [
+      5,
+      1,
+      9,
+      1,
+      58,
+      48,
+      2
+    ],
+    [
+      2,
+      3,
+      7,
+      0,
+      14,
+      654,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      13
+    ]
+  ]
+}
+/root/miniconda3/envs/flow/lib/python3.10/site-packages/scipy/stats/_axis_nan_policy.py:531: UserWarning: Exact p-value calculation does not work if there are zeros. Switching to normal approximation.
+  res = hypotest_fun_out(*samples, **kwds)
+/root/miniconda3/envs/flow/lib/python3.10/site-packages/scipy/stats/_axis_nan_policy.py:531: UserWarning: Sample size too small for normal approximation.
+  res = hypotest_fun_out(*samples, **kwds)
+Wrote statistics to /root/autodl-tmp/output/ablation_complete/evaluation/classifier/statistics
+[
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  }
+]
+Real class counts: {'akiec': 266, 'bcc': 420, 'bkl': 872, 'df': 92, 'mel': 889, 'nv': 5366, 'vasc': 107}
+Median: 420
+Majority classes: ['bkl', 'mel', 'nv']
+Minority classes: ['akiec', 'bcc', 'df', 'vasc']
+Mixed dataset created at /root/autodl-tmp/output/ablation_complete/evaluation/segmentation/mixed/A
+Real class counts: {'akiec': 266, 'bcc': 420, 'bkl': 872, 'df': 92, 'mel': 889, 'nv': 5366, 'vasc': 107}
+Median: 420
+Majority classes: ['bkl', 'mel', 'nv']
+Minority classes: ['akiec', 'bcc', 'df', 'vasc']
+Mixed dataset created at /root/autodl-tmp/output/ablation_complete/evaluation/segmentation/mixed/B
+Real class counts: {'akiec': 266, 'bcc': 420, 'bkl': 872, 'df': 92, 'mel': 889, 'nv': 5366, 'vasc': 107}
+Median: 420
+Majority classes: ['bkl', 'mel', 'nv']
+Minority classes: ['akiec', 'bcc', 'df', 'vasc']
+Mixed dataset created at /root/autodl-tmp/output/ablation_complete/evaluation/segmentation/mixed/C
+Real class counts: {'akiec': 266, 'bcc': 420, 'bkl': 872, 'df': 92, 'mel': 889, 'nv': 5366, 'vasc': 107}
+Median: 420
+Majority classes: ['bkl', 'mel', 'nv']
+Minority classes: ['akiec', 'bcc', 'df', 'vasc']
+Mixed dataset created at /root/autodl-tmp/output/ablation_complete/evaluation/segmentation/mixed/D
+Real class counts: {'akiec': 266, 'bcc': 420, 'bkl': 872, 'df': 92, 'mel': 889, 'nv': 5366, 'vasc': 107}
+Median: 420
+Majority classes: ['bkl', 'mel', 'nv']
+Minority classes: ['akiec', 'bcc', 'df', 'vasc']
+Mixed dataset created at /root/autodl-tmp/output/ablation_complete/evaluation/segmentation/mixed/E
+Real class counts: {'akiec': 266, 'bcc': 420, 'bkl': 872, 'df': 92, 'mel': 889, 'nv': 5366, 'vasc': 107}
+Median: 420
+Majority classes: ['bkl', 'mel', 'nv']
+Minority classes: ['akiec', 'bcc', 'df', 'vasc']
+Mixed dataset created at /root/autodl-tmp/output/ablation_complete/evaluation/segmentation/mixed/F
+Real class counts: {'akiec': 266, 'bcc': 420, 'bkl': 872, 'df': 92, 'mel': 889, 'nv': 5366, 'vasc': 107}
+Median: 420
+Majority classes: ['bkl', 'mel', 'nv']
+Minority classes: ['akiec', 'bcc', 'df', 'vasc']
+Mixed dataset created at /root/autodl-tmp/output/ablation_complete/evaluation/segmentation/mixed/G
+Real class counts: {'akiec': 266, 'bcc': 420, 'bkl': 872, 'df': 92, 'mel': 889, 'nv': 5366, 'vasc': 107}
+Median: 420
+Majority classes: ['bkl', 'mel', 'nv']
+Minority classes: ['akiec', 'bcc', 'df', 'vasc']
+Mixed dataset created at /root/autodl-tmp/output/ablation_complete/evaluation/segmentation/mixed/H
+Real class counts: {'akiec': 266, 'bcc': 420, 'bkl': 872, 'df': 92, 'mel': 889, 'nv': 5366, 'vasc': 107}
+Median: 420
+Majority classes: ['bkl', 'mel', 'nv']
+Minority classes: ['akiec', 'bcc', 'df', 'vasc']
+Mixed dataset created at /root/autodl-tmp/output/ablation_complete/evaluation/segmentation/mixed/I
+Wrote statistics to /root/autodl-tmp/output/ablation_complete/evaluation/segmentation/statistics

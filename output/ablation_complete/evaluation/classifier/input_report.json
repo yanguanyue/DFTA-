@@ -1,0 +1,569 @@
+[
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "A",
+    "root": "/root/autodl-tmp/output/ablation_complete/A",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "B",
+    "root": "/root/autodl-tmp/output/ablation_complete/B",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "C",
+    "root": "/root/autodl-tmp/output/ablation_complete/C",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "D",
+    "root": "/root/autodl-tmp/output/ablation_complete/D",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "E",
+    "root": "/root/autodl-tmp/output/ablation_complete/E",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "F",
+    "root": "/root/autodl-tmp/output/ablation_complete/F",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "G",
+    "root": "/root/autodl-tmp/output/ablation_complete/G",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "H",
+    "root": "/root/autodl-tmp/output/ablation_complete/H",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "akiec",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "bcc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "bkl",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "df",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "mel",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "nv",
+    "expected": 500,
+    "images": 500,
+    "masks": 500,
+    "status": "ok"
+  },
+  {
+    "group": "I",
+    "root": "/root/autodl-tmp/output/ablation_complete/I",
+    "cls": "vasc",
+    "expected": 1500,
+    "images": 1500,
+    "masks": 1500,
+    "status": "ok"
+  }
+]
