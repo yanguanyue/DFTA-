@@ -272,7 +272,7 @@ TRAIN_ENABLED=false USE_PRETRAINED=1 bash scripts/compare_Main.sh
 | `TRAIN_ENABLED` | Enable/disable training stage | `true` |
 | `RUN_ENABLED` | Enable/disable generation stage | `true` |
 | `TEST_MODE` | Quick test mode (5 steps, 1 img/class) | `false` |
-| `USE_PRETRAINED` | Load pre-trained weights for initialization | `false` |
+| `USE_PRETRAINED` | Load pre-trained weights for initialization | `true` |
 | `NUM_IMAGES_PER_CLASS` | Number of images to generate per class | 1500 |
 | `MAX_STEPS` | Maximum training steps | 10000 |
 | `NUM_WORKERS` | Data loading workers | 4 |

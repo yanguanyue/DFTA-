@@ -7,7 +7,7 @@ COMPARE_MAIN=true
 TRAIN_ENABLED=${TRAIN_ENABLED:-true}
 RUN_ENABLED=${RUN_ENABLED:-true}
 TEST_MODE=${TEST_MODE:-0}
-USE_PRETRAINED=${USE_PRETRAINED:-0}
+USE_PRETRAINED=${USE_PRETRAINED:-1}
 ##############################
 
 ROOT_PATH=$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)
@@ -65,7 +65,11 @@ if [ "$COMPARE_MAIN" = true ]; then
       --cuda-visible-devices "$CUDA_VISIBLE_DEVICES"
     )
 
-    if [ "$USE_PRETRAINED" = "1" ] && [ -f "$PRETRAINED_CKPT" ]; then
+    if [ "$USE_PRETRAINED" = "1" ]; then
+      if [ ! -f "$PRETRAINED_CKPT" ]; then
+        echo "[x] Pretrained checkpoint not found: $PRETRAINED_CKPT"
+        exit 1
+      fi
       TRAIN_ARGS+=(--resume "$PRETRAINED_CKPT")
     fi
 

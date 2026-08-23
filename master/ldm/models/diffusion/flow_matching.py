@@ -179,7 +179,11 @@ class FlowMatchingSampler:
         verbose: bool = False,
     ) -> Tuple[torch.Tensor, List[torch.Tensor]]:
         device = next(self.model.parameters()).device
-        x = torch.randn((batch_size, *shape), device=device)
+        x = torch.randn(
+            (batch_size, *shape),
+            device=device,
+            generator=generator,
+        )
         t_seq = torch.linspace(1.0, 0.0, steps + 1, device=device)
         intermediates: List[torch.Tensor] = [x]
 
@@ -197,7 +201,12 @@ class FlowMatchingSampler:
             # proportional to sqrt(|dt|) for stochastic sampling.
             if stochastic and noise_scale > 0.0:
                 dt_abs = dt.abs()
-                noise = torch.randn_like(x, generator=generator)
+                noise = torch.randn(
+                    x.shape,
+                    device=x.device,
+                    dtype=x.dtype,
+                    generator=generator,
+                )
                 x = x + noise_scale * torch.sqrt(dt_abs) * noise
             if verbose or i % max(steps // 10, 1) == 0 or i == steps - 1:
                 intermediates.append(x)

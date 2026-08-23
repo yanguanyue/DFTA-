@@ -14,7 +14,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--learning-rate", type=float, default=1e-5)
     parser.add_argument("--sd-locked", action="store_true", default=False)
     parser.add_argument("--only-mid-control", action="store_true", default=False)
-    parser.add_argument("--max-steps", type=int, default=3000)
+    parser.add_argument("--max-steps", type=int, default=10000)
     parser.add_argument("--output-dir", type=str, default="/root/autodl-tmp/checkpoint/flow")
     parser.add_argument("--devices", type=int, default=1)
     parser.add_argument("--num-workers", type=int, default=4)

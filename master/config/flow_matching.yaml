@@ -1,5 +1,5 @@
 model:
-  target: model.flow_matching.FlowMatchingControlLDM
+  target: cldm.flow_matching_cldm.FlowMatchingControlLDM
   params:
     linear_start: 0.00085
     linear_end: 0.0120
@@ -23,9 +23,9 @@ model:
     trajectory_consistency_detach_image: true
     trajectory_alignment_steps: 5
     # --- OSEA (Online Straight Euler Augmentation) ---
-    osea_weight: 0.05
-    osea_start_step: 0
-    osea_detach_pseudo: true
+    online_aug_weight: 0.05
+    online_aug_start_step: 0
+    online_aug_detach_pseudo: true
 
     control_stage_config:
       target: cldm.cldm.ControlNet
