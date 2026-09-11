@@ -10,6 +10,8 @@ This repository presents **DFTA (Dual-Flow Trajectory Alignment)**, a skin lesio
 - **Journal:** *International Journal of Imaging Systems and Technology*
 - **DOI:** [10.1002/ima.70447](https://doi.org/10.1002/ima.70447)
 
+> **Note:** The article is currently in production. The DOI link may not resolve until the publisher completes DOI activation and online publication.
+
 ---
 
 ## 🏗️ Architecture Overview
