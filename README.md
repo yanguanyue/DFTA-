@@ -2,6 +2,14 @@
 
 This repository presents **DFTA (Dual-Flow Trajectory Alignment)**, a skin lesion image generation method based on Flow Matching. It provides a comprehensive framework for skin lesion image generation, evaluation, and downstream task validation using HAM10000, ISIC2017, and Dermofit. The framework includes training, generation-quality assessment, downstream classification and segmentation, cross-dataset evaluation, and a complete A--I/DFTA ablation study. Training and generation scripts are implemented for ArSDM, ControlNet, T2I-Adapter, DreamBooth, DFMGAN, LesionGen, Derm-T2IM, LF-VAR, Siamese Diffusion, and Skin-Disease-Diffusion. The current paper evaluation pipeline, however, includes eight of these baselines (all except LF-VAR and Skin-Disease-Diffusion) together with DFTA.
 
+## Publication
+
+**Accepted and in production** in the *International Journal of Imaging Systems and Technology*.
+
+- **Title:** DFTA: Dual-Flow Trajectory Alignment for Medical Pathology Image Synthesis
+- **Journal:** *International Journal of Imaging Systems and Technology*
+- **DOI:** [10.1002/ima.70447](https://doi.org/10.1002/ima.70447)
+
 ---
 
 ## 🏗️ Architecture Overview
